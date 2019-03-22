@@ -1,2 +1,3 @@
-# learnings
-Index for Learning Repos
+# 📚 Studies 
+> Index for my study topics 
+
