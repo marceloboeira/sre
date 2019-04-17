@@ -6,7 +6,7 @@
 ### More info
 > Information about the links
 
-* 📰 - Articlew
+* 📰 - Article
 * 📕 - Book
 * 💻 - Project
 * 🎓 - Online Course
@@ -31,8 +31,8 @@
         * MySQl
       * NoSQL
         * KeyValue
-          * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻  🆓
-          * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 💻  🆓
+          * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
+          * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
   * Operations
     * Operating Systems
       * [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
