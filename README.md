@@ -8,11 +8,13 @@
 
 * 📰 - Articlew
 * 📕 - Book
-* 👩‍💻 - Project
+* 💻 - Project
 * 🎓 - Online Course
 * 📼 - Video
 * 🆓 - No money required
 * 💰 - Paid
+* ✍🏼- - Written by me
+* 📝 - My annotations
 
 ## References
 
@@ -20,9 +22,15 @@
   * Software Engineering
     * Programming Languages
       * Functional Programming Languages
-        * [Haskell From First Principles](https://github.com/marceloboeira/hffp) 📕 💰
+        * [Haskell From First Principles](https://github.com/marceloboeira/hffp) 📝 📕 💰
       * Systems Programming Languages
-        * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📕 🆓
+        * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📝 📕 🆓
+    * Databases
+      *  SQL
+      *  NoSQL
+        * KeyValue
+          * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻  🆓
+          * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 💻  🆓
   * Operations
     * Operating Systems
       * [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
