@@ -11,10 +11,10 @@
 * 💻 - Project
 * 🎓 - Online Course
 * 📼 - Video
-* 🆓 - No money required
-* 💰 - Paid
-* ✍🏼- - Written by me
+* ✍🏼 - Written/Made by me
 * 📝 - My annotations
+* 🆓 - Free / No money required
+* 💰 - Paid
 
 ## References
 
