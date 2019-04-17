@@ -26,8 +26,10 @@
       * Systems Programming Languages
         * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📝 📕 🆓
     * Databases
-      *  SQL
-      *  NoSQL
+      * SQL
+        * Postgres
+        * MySQl
+      * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻  🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 💻  🆓
