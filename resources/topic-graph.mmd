@@ -34,23 +34,44 @@ graph TD
         DoS --> ES[ElasticSearch]
 
   SRE --> OPS[Operations]
-      OPS --> OS[Operating Systems]
-      OPS --> IaC[Infrastructure as Code]
-        IaC --> CfgMgt[Configuration Management]
-          CfgMgt --> Ppt[Puppet]
-          CfgMgt --> Ans[Ansible]
-          CfgMgt --> Che[Chef]
-        IaC --> Prov[Provisioning]
-          Prov --> TF[Terraform]
-        IaC --> Orc[Orchestration]
-          Orc --> Kubernetes
-          Orc --> Mesos
-          Orc --> Nomad
-      OPS --> NET[Networking]
-        NET --> NETP[Protocols]
-          NETP --> Socket
-          NETP --> UDP
-          NETP --> TCP
-            TCP --> SSH
-            TCP --> HTTP
-            TCP --> SSL[TLS-SSL]
+    OPS --> OS[Operating Systems]
+    OPS --> OPSOPS[Operational]
+      OPSOPS --> Ter[Terminal]
+        Ter --> Bash
+        Ter --> PrM[Process Monitoring]
+          PrM --> ps
+          PrM --> top
+          PrM --> htop
+          PrM --> atop
+          PrM --> lsof
+        Ter --> Netw[Network]
+          Netw --> dig
+          Netw --> iptables
+          Netw --> nmap
+          Netw --> tcpdump
+          Netw --> ping
+          Netw --> mtr
+          Netw --> traceroute
+          Netw --> airmon
+          Netw --> airodump
+
+    OPS --> IaC[Infrastructure as Code]
+      IaC --> CfgMgt[Configuration Management]
+        CfgMgt --> Puppet
+        CfgMgt --> Ansible
+        CfgMgt --> Chef
+      IaC --> Prov[Provisioning]
+        Prov --> TF[Terraform]
+      IaC --> Orc[Orchestration]
+        Orc --> K8S[Kubernetes]
+        Orc --> Mesos
+        Orc --> Nomad
+
+    OPS --> NET[Networking]
+      NET --> NETP[Protocols]
+        NETP --> Socket
+        NETP --> UDP
+        NETP --> TCP
+          TCP --> SSH
+          TCP --> HTTP
+          TCP --> SSL[TLS-SSL]
