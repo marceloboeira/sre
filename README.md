@@ -28,12 +28,14 @@
     * Databases
       * SQL
         * Postgres
-        * MySQl
+        * MySQL
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
   * Operations
+    * Networking
+      * Protocols
     * Operating Systems
       * [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
     * Infrastructure as Code

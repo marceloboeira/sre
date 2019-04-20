@@ -12,6 +12,7 @@ graph TD
     PL --> FunPL[Functional Programming Languages]
       FunPL --> Haskell
       FunPL --> Lisp
+
   SW --> PT[Programming Topics]
     PT --> ALG[Algorithms]
       ALG --> SRT[Sorting]
@@ -20,6 +21,7 @@ graph TD
       DS --> Graph[Graph]
       DS --> T3[Tree]
       DS --> HS[Hash]
+
   SW --> DB[Databases]
     DB --> SQL[SQL]
       SQL --> PgSQL[PostgreSQL]
@@ -34,4 +36,21 @@ graph TD
   SRE --> OPS[Operations]
       OPS --> OS[Operating Systems]
       OPS --> IaC[Infrastructure as Code]
-        IaC --> TF[Terraform]
+        IaC --> CfgMgt[Configuration Management]
+          CfgMgt --> Ppt[Puppet]
+          CfgMgt --> Ans[Ansible]
+          CfgMgt --> Che[Chef]
+        IaC --> Prov[Provisioning]
+          Prov --> TF[Terraform]
+        IaC --> Orc[Orchestration]
+          Orc --> Kubernetes
+          Orc --> Mesos
+          Orc --> Nomad
+      OPS --> NET[Networking]
+        NET --> NETP[Protocols]
+          NETP --> Socket
+          NETP --> UDP
+          NETP --> TCP
+            TCP --> SSH
+            TCP --> HTTP
+            TCP --> SSL[TLS-SSL]
