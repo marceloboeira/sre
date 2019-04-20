@@ -2,6 +2,7 @@
 > Index for my study topics
 
 <img src="resources/topic-graph.png" width="100%">
+(click to see the large version)
 
 ### More info
 > Information about the links
