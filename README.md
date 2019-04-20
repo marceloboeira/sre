@@ -19,6 +19,11 @@
 ## References
 
 * Site Reliability Engineering
+  * Culture
+    * SRE Books
+      * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/)   📕 🆓
+        * [Annotations](/) - Coming Soon
+      * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
   * Software Engineering
     * Programming Languages
       * Functional Programming Languages

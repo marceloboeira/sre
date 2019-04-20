@@ -1,6 +1,10 @@
 graph TD
   SRE[Site Reliability Engineering]
 
+  SRE --> Cul[Culture]
+    Cul --> SLA
+    Cul --> SLO
+
   SRE --> SW[Software Engineering]
   SW --> PL[Programming Languages]
     PL --> SysPL[Systems Programming Languages]
