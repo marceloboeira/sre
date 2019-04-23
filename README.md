@@ -46,7 +46,11 @@
       * [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
     * Infrastructure as Code
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
-      * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk)
-      * Terraform
-        * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
-        * [Infrastructure as Code in the Real World?](https://www.youtube.com/watch?v=S6vS5mzivFo) 📼 🆓
+      * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
+      * Orchestration
+        * Kubernetes
+          * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
+      * Provisioning
+        * Terraform
+          * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
+          * [Infrastructure as Code in the Real World?](https://www.youtube.com/watch?v=S6vS5mzivFo) 📼 🆓
