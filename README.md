@@ -1,5 +1,7 @@
-# 📚 Studies
-> Index for my study topics
+# 📚 Knowledge
+> an attempt to centralize my studies/links/annotations for reference purposes
+
+At the moment this is not useful for anyone but myself, if at some point I find it usefult I'll make it public.
 
 <img src="resources/topic-graph.png" width="100%">
 (click to see the large version)
@@ -35,6 +37,8 @@
         * Rust
           * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) 📕 🆓
             * [Annotations](https://github.com/marceloboeira/trpl) 📝
+            * SubProjects
+              * [grab](https://github.com/marceloboeira/grab) - 👋🏼 like grep, but simpler [Chapters 12 project].
     * Databases
       * SQL
         * Postgres
