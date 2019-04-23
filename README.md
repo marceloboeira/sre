@@ -39,6 +39,7 @@
       * SQL
         * Postgres
         * MySQL
+        * Cassandra
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓

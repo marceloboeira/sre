@@ -28,8 +28,9 @@ graph TD
 
   SW --> DB[Databases]
     DB --> SQL[SQL]
-      SQL --> PgSQL[PostgreSQL]
-      SQL --> MySQL[MySQL]
+      SQL --> PgSQL
+      SQL --> MySQL
+      SQL --> Cassandra
     DB --> NoSQL[NoSQL]
       NoSQL --> KV[KeyValue]
         KV --> Rd[Redis]
