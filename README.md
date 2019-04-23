@@ -28,9 +28,11 @@
   * Software Engineering
     * Programming Languages
       * Functional Programming Languages
-        * [Haskell From First Principles](https://github.com/marceloboeira/hffp) 📝 📕 💰
+        * [Haskell From First Principles](http://haskellbook.com) 📕 💰
+          * [Exercises](https://github.com/marceloboeira/hffp) 📝
       * Systems Programming Languages
-        * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📝 📕 🆓
+        * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📕 🆓
+          * [Annotations](https://github.com/marceloboeira/trpl) 📝
     * Databases
       * SQL
         * Postgres
@@ -49,6 +51,7 @@
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
       * Orchestration
         * Kubernetes
+          * [Kubernetes Up and Running](http://shop.oreilly.com/product/0636920043874.do#tab_04_2) 📕 💰
           * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
       * Provisioning
         * Terraform
