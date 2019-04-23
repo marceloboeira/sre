@@ -28,11 +28,13 @@
   * Software Engineering
     * Programming Languages
       * Functional Programming Languages
-        * [Haskell From First Principles](http://haskellbook.com) 📕 💰
-          * [Exercises](https://github.com/marceloboeira/hffp) 📝
+        * Haskell
+          * [Haskell From First Principles](http://haskellbook.com) 📕 💰
+            * [Exercises](https://github.com/marceloboeira/hffp) 📝
       * Systems Programming Languages
-        * [The Rust Programming Language](https://github.com/marceloboeira/trpl) 📕 🆓
-          * [Annotations](https://github.com/marceloboeira/trpl) 📝
+        * Rust
+          * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) 📕 🆓
+            * [Annotations](https://github.com/marceloboeira/trpl) 📝
     * Databases
       * SQL
         * Postgres
