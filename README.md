@@ -18,20 +18,36 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 * 📝 - My annotations
 * 🆓 - Free / No money required
 * 💰 - Paid
-* 💪🏼 - Practice
+* 💪🏼 - Practi
+* 🐦 - Person to Follow on Twitter
 
 ## References
 
 * Site Reliability Engineering
   * Culture
     * General Overviwe
-      * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/)   📕 🆓
+      * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/) 📕 🆓
         * [Annotations](/) - Coming Soon
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
       * [SRE - Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) 📼 🆓
+      * Google Series on SRE - class SRE implements DevOps
+        * [What's the Difference Between DevOps and SRE?](https://www.youtube.com/watch?v=uTEL8Ff1Zvk) 📼 🆓
+        * [SLIs, SLOs, SLAs, oh my!](https://www.youtube.com/watch?v=tEylFyxbDLE) 📼 🆓
+        * [Risk and Error Budgets](https://www.youtube.com/watch?v=y2ILKr8kCJU) 📼 🆓
+        * [Toil and Toil Budgets](https://www.youtube.com/watch?v=IvQ-15-yE_c) 📼 🆓
+        * [Now SRE Everyone Else with CRE!](https://www.youtube.com/watch?v=GQPzaq-owYM) 📼 🆓
+        * [Managing Risks as a Site Reliability Engineer](https://www.youtube.com/watch?v=4kGu1_M7Igg) 📼 🆓
+        * [Actionable Alerting for Site Reliability Engineers](https://www.youtube.com/watch?v=CGldVD5wR-g) 📼 🆓
+        * [Observability of Distributed Systems](https://www.youtube.com/watch?v=SoZZzB-yTOk) 📼 🆓
+        * [Incident Management](https://www.youtube.com/watch?v=n4y9dwinPBQ) 📼 🆓
+        * [Postmortems and Retrospectives](https://www.youtube.com/watch?v=UBe7U2b3tsA) 📼 🆓
     * Use cases
       * [Christof Leng - Site Reliability Engineering at Google](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
       * [Squarespace - Implementing SLOs for a New Service](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
+    * People to Follow
+      * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
+      * [Seth Vargo](https://twitter.com/sethvargo) 🐦
+
   * Software Engineering
     * Programming Languages
       * **Functional Programming Languages**
