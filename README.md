@@ -18,6 +18,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 * 📝 - My annotations
 * 🆓 - Free / No money required
 * 💰 - Paid
+* 💪🏼 - Practice
 
 ## References
 
@@ -32,7 +33,28 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * Functional Programming Languages
         * Haskell
           * [Haskell From First Principles](http://haskellbook.com) 📕 💰
-            * [Exercises](https://github.com/marceloboeira/hffp) 📝
+            * [Book Exercises](https://github.com/marceloboeira/hffp) 📝 🆓
+          * General Overview
+            * [Simon Peyton-Jones - Escape from the ivory tower - the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) 📼 🆓
+            * [Simon Peyton Jones - A History of Haskell - being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) 📼 🆓
+            * [Andrew Rademacher - Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) 📼 🆓
+          * Use cases
+            * Facebook
+              * [Bryan O'Sullivan - The Bright Side of High Level Languages](https://www.youtube.com/watch?v=kGa78HQv_LQ) 📼 🆓
+              * [Jon Coens - The Road to Running Haskell at Facebook Scale](https://www.youtube.com/watch?v=sl2zo7tzrO8) 📼 🆓
+          * Practice
+            * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/) 💪🏼🆓
+        * Concepts
+          * Functional Programming
+            * [Computerphile - Functional Programming & Haskell](https://www.youtube.com/watch?v=LnX3B9oaKzw) 📼 🆓
+          * Lambda Calculus
+            * [Computerphile - Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs) 📼 🆓
+            * [Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming](https://www.youtube.com/watch?v=3VQ382QG-y4) 📼 🆓
+            * The Y Combinator
+              * [Computerphile - Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI) 📼 🆓
+          * Monads
+            * [Computerphile - What is a Monad?](https://www.youtube.com/watch?v=t1e8gqXLbsU) 📼 🆓
+
       * Systems Programming Languages
         * Rust
           * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) 📕 🆓
