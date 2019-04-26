@@ -30,7 +30,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
   * Software Engineering
     * Programming Languages
-      * Functional Programming Languages
+      * **Functional Programming Languages**
         * Haskell
           * [Haskell From First Principles](http://haskellbook.com) 📕 💰
             * [Book Exercises](https://github.com/marceloboeira/hffp) 📝 🆓
@@ -54,13 +54,20 @@ At the moment this is not useful for anyone but myself, if at some point I find 
               * [Computerphile - Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI) 📼 🆓
           * Monads
             * [Computerphile - What is a Monad?](https://www.youtube.com/watch?v=t1e8gqXLbsU) 📼 🆓
-
-      * Systems Programming Languages
+      * **Systems Programming Languages**
         * Rust
           * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) 📕 🆓
             * [Annotations](https://github.com/marceloboeira/trpl) 📝
             * SubProjects
-              * [grab](https://github.com/marceloboeira/grab) - 👋🏼 like grep, but simpler [Chapters 12 project].
+              * [grab](https://github.com/marceloboeira/grab) 👋🏼 like grep, but simpler [Chapters 12 project].
+            * General Overview
+              * [Aaron Turon - Rust: confident, productive systems programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) 📼 🆓
+              * [Steve Klabnik - The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) 📼 🆓
+            * Use cases
+              * [Raph Levien - A Modern Editor Built in Rust](https://www.youtube.com/watch?v=SKtQgFBRUvQ) 📼 🆓
+        * Go
+          * Garbage Collector
+            * [Golang's Realtime GC in Theory and Practice](https://www.youtube.com/watch?v=bMujSVMarqY) 📼 🆓
     * Databases
       * SQL
         * Postgres
