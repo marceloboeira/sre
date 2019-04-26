@@ -24,17 +24,21 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 
 * Site Reliability Engineering
   * Culture
-    * SRE Books
+    * General Overviwe
       * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/)   📕 🆓
         * [Annotations](/) - Coming Soon
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
+      * [SRE - Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) 📼 🆓
+    * Use cases
+      * [Christof Leng - Site Reliability Engineering at Google](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
+      * [Squarespace - Implementing SLOs for a New Service](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
   * Software Engineering
     * Programming Languages
       * **Functional Programming Languages**
         * Haskell
-          * [Haskell From First Principles](http://haskellbook.com) 📕 💰
-            * [Book Exercises](https://github.com/marceloboeira/hffp) 📝 🆓
           * General Overview
+            * [Haskell From First Principles](http://haskellbook.com) 📕 💰
+              * [Book Exercises](https://github.com/marceloboeira/hffp) 📝 💪🏼 🆓
             * [Simon Peyton-Jones - Escape from the ivory tower - the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) 📼 🆓
             * [Simon Peyton Jones - A History of Haskell - being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) 📼 🆓
             * [Andrew Rademacher - Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) 📼 🆓
@@ -43,7 +47,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
               * [Bryan O'Sullivan - The Bright Side of High Level Languages](https://www.youtube.com/watch?v=kGa78HQv_LQ) 📼 🆓
               * [Jon Coens - The Road to Running Haskell at Facebook Scale](https://www.youtube.com/watch?v=sl2zo7tzrO8) 📼 🆓
           * Practice
-            * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/) 💪🏼🆓
+            * [The Monad Challenges](http://mightybyte.github.io/monad-challenges/) 💪🏼 🆓
         * Concepts
           * Functional Programming
             * [Computerphile - Functional Programming & Haskell](https://www.youtube.com/watch?v=LnX3B9oaKzw) 📼 🆓
