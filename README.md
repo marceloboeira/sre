@@ -20,6 +20,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 * 💰 - Paid
 * 💪🏼 - Practi
 * 🐦 - Person to Follow on Twitter
+* ⭐️ - Favourite Option (when there are many alternatives)
 
 ## References
 
@@ -55,7 +56,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * General Overview
             * [Haskell From First Principles](http://haskellbook.com) 📕 💰
               * [Book Exercises](https://github.com/marceloboeira/hffp) 📝 💪🏼 🆓
-            * [Simon Peyton-Jones - Escape from the ivory tower - the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) 📼 🆓
+            * [Simon Peyton Jones - Escape from the ivory tower - the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) 📼 🆓
             * [Simon Peyton Jones - A History of Haskell - being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) 📼 🆓
             * [Andrew Rademacher - Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) 📼 🆓
           * Use cases
@@ -70,6 +71,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * Lambda Calculus
             * [Computerphile - Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs) 📼 🆓
             * [Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming](https://www.youtube.com/watch?v=3VQ382QG-y4) 📼 🆓
+            * [Lambda Calculis - Church Encodings && Combinators](https://www.youtube.com/watch?v=pAnLQ9jwN-E) 📼 🆓
             * The Y Combinator
               * [Computerphile - Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI) 📼 🆓
           * Monads
@@ -102,7 +104,14 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Networking
       * Protocols
     * Operating Systems
-      * [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
+      * Courses
+        * [CS8803 - Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
+            * [Annotations and Exercises](https://github.com/marceloboeira/CS8803) 📝
+        * Base Book (Choose 1):
+          * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) 📕 🆓 ⭐️
+          * [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=dp_ob_title_bk) 📕 💰
+          * [Operating System Concepts: Essentials](https://www.amazon.com/Operating-Concepts-Essentials-Abraham-Silberschatz/dp/1118804929/ref=sr_1_1?s=books&ie=UTF8&qid=1415311059&sr=1-1&keywords=operating+system+concepts+essentials) 📕 💰
+          * [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-4th-Edition/dp/013359162X/ref=dp_ob_title_bk) 📕 💰
     * Infrastructure as Code
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
