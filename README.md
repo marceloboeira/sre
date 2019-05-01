@@ -126,6 +126,12 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Virtual Memory, Disk Devices](https://minnie.tuhs.org/CompArch/Lectures/week10.html)
           * [Filesystems & Their Performance](https://minnie.tuhs.org/CompArch/Lectures/week11.html)
           * [IPC, Synchronisation and Threads](https://minnie.tuhs.org/CompArch/Lectures/week12.html)
+       * Virtual Memory
+         * mmap
+           * [How processes get more memory](https://www.youtube.com/watch?v=XV5sRaSVtXQ)
+           * [How to Map Files into Memory in C (mmap)](https://www.youtube.com/watch?v=m7E9piHcfr4)
+       * Reference Youtube channels
+         * [Jacob Sorber](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ)
     * Networking
       * Protocols
     * Infrastructure as Code
