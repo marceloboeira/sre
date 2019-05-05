@@ -40,6 +40,17 @@ graph TD
 
   SRE --> OPS[Operations]
     OPS --> OS[Operating Systems]
+      OS --> MM[Memory]
+        MM --> Heap
+        MM --> Stack
+        MM --> PAG[Pagination]
+      OS --> PRO[Process]
+        PRO --> IPC[Inter Process Communication]
+          IPC --> IPCM[Message Passing]
+          IPC --> IPCSM[Shared Memory]
+      OS --> CCY[Concurrency]
+        CCY --> Thread
+          Thread --> PThread
     OPS --> OPSOPS[Operational]
       OPSOPS --> Ter[Terminal]
         Ter --> Bash

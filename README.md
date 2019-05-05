@@ -126,6 +126,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Virtual Memory, Disk Devices](https://minnie.tuhs.org/CompArch/Lectures/week10.html)
           * [Filesystems & Their Performance](https://minnie.tuhs.org/CompArch/Lectures/week11.html)
           * [IPC, Synchronisation and Threads](https://minnie.tuhs.org/CompArch/Lectures/week12.html)
+       * Threads
+         * ["An Introduction to Programming with Threads"](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf) by Birrell 📰 🆓
+         * POSIX Threads (PThreads)
+           * [PThreads / POSIX Threads Coding Examples](https://computing.llnl.gov/tutorials/pthreads/) 📰 🆓
        * Virtual Memory
          * mmap
            * [How processes get more memory](https://www.youtube.com/watch?v=XV5sRaSVtXQ)
