@@ -18,7 +18,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 * 📝 - My annotations
 * 🆓 - Free / No money required
 * 💰 - Paid
-* 💪🏼 - Practi
+* 💪🏼 - Praice
 * 🐦 - Person to Follow on Twitter
 * ⭐️ - Favourite Option (when there are many alternatives)
 
