@@ -45,6 +45,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Use cases
       * [Christof Leng - Site Reliability Engineering at Google](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
       * [Squarespace - Implementing SLOs for a New Service](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
+      * [Circonous - Shipping Software with an SRE Mindset](https://www.youtube.com/watch?v=TZWWkvxFXls) 📼 🆓
     * People to Follow
       * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
