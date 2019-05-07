@@ -141,7 +141,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
            * [How to Map Files into Memory in C (mmap)](https://www.youtube.com/watch?v=m7E9piHcfr4)
        * Reference Youtube channels
          * [Jacob Sorber](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ)
-    * Networking
+    * Network
+      * [Computer Networks, 5th Edition](http://www.mypearsonstore.com/bookstore/computer-networks-9780132126953?xid=PSED) 📕 💰
       * Protocols
     * Monitoring
       * Metrics
