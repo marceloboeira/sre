@@ -52,6 +52,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 
   * Software Engineering
     * Programming Languages
+      * Paradigms
+        * [Coursera - Programming Languages - Part A](https://www.coursera.org/learn/programming-languages) 📼 🎓 🆓
+        * [Coursera - Programming Languages - Part B](https://www.coursera.org/learn/programming-languages-part-b) 📼 🎓 🆓
+        * [Coursera - Programming Languages - Part C](https://www.coursera.org/learn/programming-languages-part-c) 📼 🎓 🆓
       * **Functional Programming Languages**
         * Haskell
           * General Overview
@@ -139,6 +143,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
          * [Jacob Sorber](https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ)
     * Networking
       * Protocols
+    * Monitoring
+      * Metrics
+        * Prometheus
+          * [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.de/gp/product/1492034142?pf_rd_p=99260c3e-e149-406d-b475-c299891fcd91&pf_rd_r=M0874DR76K58PTVG1NV7) 📕 💰
     * Infrastructure as Code
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
