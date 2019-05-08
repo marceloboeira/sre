@@ -70,7 +70,6 @@ graph TD
           Netw --> traceroute
           Netw --> airmon
           Netw --> airodump
-
     OPS --> IaC[Infrastructure as Code]
       IaC --> CfgMgt[Configuration Management]
         CfgMgt --> Puppet
@@ -82,7 +81,6 @@ graph TD
         Orc --> K8S[Kubernetes]
         Orc --> Mesos
         Orc --> Nomad
-
     OPS --> NET[Networking]
       NET --> NETP[Protocols]
         NETP --> Socket
@@ -91,3 +89,14 @@ graph TD
           TCP --> SSH
           TCP --> HTTP
           TCP --> SSL[TLS-SSL]
+    OPS --> MON[Monitoring]
+      MON --> Metr[Metrics]
+        Metr --> Prom[Prometheus]
+        Metr --> DD[Datadog]
+        Metr --> Graf[Grafana]
+        Metr --> Statsd[Statsd]
+      MON --> Logs[Logs]
+        Logs --> Logstash
+      MON --> Tra[Tracing]
+        Tra --> OPT[Open Tracing]
+        Tra --> Jae[Jaegger]
