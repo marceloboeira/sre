@@ -99,6 +99,12 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * Go
           * Garbage Collector
             * [Golang's Realtime GC in Theory and Practice](https://www.youtube.com/watch?v=bMujSVMarqY) 📼 🆓
+    * Programming Topics
+      * Algorithms and Data Structures
+        * [Udacity - Intro to Data Structures and Algorithms by Google](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513) 🆓 🎓 📼
+        * [Coursera - Algorithms - Part 1 - Elementary data structures, sorting, and searching algorithms](https://www.coursera.org/learn/algorithms-part1) 🆓 🎓 📼
+        * [Coursera - Algorithms - Part 2 - Graph and string-processing algorithms](https://www.coursera.org/learn/algorithms-part2) 🆓 🎓 📼
+        * [Courated List of the 10 best free resources](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 📰 🆓
     * Databases
       * SQL
         * Postgres
