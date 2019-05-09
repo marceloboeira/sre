@@ -92,6 +92,7 @@ graph TD
     OPS --> MON[Monitoring]
       MON --> Metr[Metrics]
         Metr --> Prom[Prometheus]
+        Metr --> Infl[InfluxDB]
         Metr --> DD[Datadog]
         Metr --> Graf[Grafana]
         Metr --> Statsd[Statsd]
