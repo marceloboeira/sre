@@ -26,7 +26,7 @@ graph TD
       DS --> T3[Tree]
       DS --> HS[Hash]
 
-  SW --> DB[Databases]
+    SW --> DB[Databases]
     DB --> SQL[SQL]
       SQL --> PgSQL
       SQL --> MySQL
@@ -37,6 +37,12 @@ graph TD
       NoSQL --> DoS[DocumentStore]
         DoS --> Mng[Mongo]
         DoS --> ES[ElasticSearch]
+
+  SW --> DSi[Distributed Systems]
+    DSi --> STM[Streaming]
+      STM --> Kakfa
+      STM --> Kinesis
+      STM --> NATS
 
   SRE --> OPS[Operations]
     OPS --> OS[Operating Systems]
