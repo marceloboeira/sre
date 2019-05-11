@@ -1,0 +1,60 @@
+* Packer
+
+* International Law
+  * https://www.youtube.com/watch?v=EYPs-ya_GDA
+
+- Performance Tests
+  Apache Benchmark
+  Vegeta
+
+Performance
+  Linux Performance
+  https://github.com/leandromoreira/linux-network-performance-parameters
+
+Distributed Computing
+- Concurrency
+  - Locks
+  - Atomic data structures
+  - Semaphores
+  - Latches
+  - Actors
+- Paralelism
+- BTree - https://www.youtube.com/watch?v=NI9wYuVIYcA
+- BTree indexing
+https://www.youtube.com/watch?v=aZjYr87r1b8
+https://github.com/zowens/commitlog/blob/master/src/file_set.rs#L17-L98
+Distributed Systems
+- Raft
+- Paxos
+
+https://www.amazon.de/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/ref=pd_rhf_dp_s_pd_crcd_0_7/257-9514931-3061115?_encoding=UTF8&pd_rd_i=1491983647&pd_rd_r=1815f6be-471d-4f48-b420-f0399955883d&pd_rd_w=9aqLb&pd_rd_wg=oxfmN&pf_rd_p=7538ba11-5fe0-47c6-a94f-8715960a4f1d&pf_rd_r=5Z9WWAJ2DD72JDKND0FD&psc=1&refRID=5Z9WWAJ2DD72JDKND0FD
+
+https://www.amazon.de/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_rhf_dp_s_pd_crcd_0_1/257-9514931-3061115?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=1815f6be-471d-4f48-b420-f0399955883d&pd_rd_w=9aqLb&pd_rd_wg=oxfmN&pf_rd_p=7538ba11-5fe0-47c6-a94f-8715960a4f1d&pf_rd_r=5Z9WWAJ2DD72JDKND0FD&psc=1&refRID=5Z9WWAJ2DD72JDKND0FD
+
+Consul
+Etcd
+Redis with WAL?
+
+# Performance?
+Zero Copy
+TCP/Network/OS
+
+SLO Study Case
+  https://www.youtube.com/watch?v=ffbGyHPWwZM
+  https://www.youtube.com/watch?v=GDo-Ixy_i9k
+
+PGSQL WAL -> https://www.youtube.com/watch?v=feTihjJJs3g
+
+Spark
+  https://www.youtube.com/watch?v=PVOOV1zSpQg
+
+Kafka && Kinesis
+
+---------------
+Kubernetes subtopics
+
+
+-------------
+Git *Under the hood*
+
+Commit Logs
