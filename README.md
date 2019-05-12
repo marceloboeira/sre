@@ -115,27 +115,36 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
     * Distributed Systems
+      * Event Sourcing / CQRS
+        * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓 
+        * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓 
+        * [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0) 📼 🆓 
+        * [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0) 📼 🆓 
+        * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
       * Streaming
         * [Kafka](https://kafka.apache.org)
           * [Introduction to Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE) 📼 🆓
+          * [Commit Logs in an Age of Microservices - Tim Berglund](https://www.youtube.com/watch?v=bbotWkCLuF0) 📼 🆓
           * Internals
             * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 📰 🆓
             * [How Kafka's Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) 📰 🆓
         * Kinesis
           * ["Distributed Commit Log: Application Techniques for Transaction Processing" by David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0) 📼 🆓
-        * Build your Own
-          * [Corfu - A distributed shared log](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) 📰 🆓
-          * [Building a Distributed Message Log from Scratch by Tyler Treat - Video](https://www.youtube.com/watch?v=oKbm9XFxB2k) 📼 🆓
-          * [Building a Distributed Log from Scratch, Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/) 📰 🆓
-          * [Building a Distributed Log from Scratch, Part 2: Data Replication](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication) 📰 🆓
-          * [Building a Distributed Log from Scratch, Part 3: Scaling Message Delivery](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/) 📰 🆓
-          * [Building a Distributed Log from Scratch, Part 4: Trade-Offs and Lessons Learned](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-4-trade-offs-and-lessons-learned/) 📰 🆓
-          * [Building a Distributed Log from Scratch, Part 5: Sketching a New System](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/) 📰 🆓
-          * Code
-            * [travisjeffery/Jocko](https://github.com/travisjeffery/jocko) - Distributed commit log service in Go
-            * [zowens/commitlog](http://github.com/zowens/commitlog) - Append-only commit log library for Rust
-          * People to Follow
-            * [Tyler Treat](https://twitter.com/tyler_treat?lang=en) 🐦
+        * Commit Log
+          * [Commit Logs in an Age of Microservices - Tim Berglund](https://www.youtube.com/watch?v=bbotWkCLuF0) 📼 🆓
+          * Build your Own
+            * [Corfu - A distributed shared log](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) 📰 🆓
+            * [Building a Distributed Message Log from Scratch by Tyler Treat - Video](https://www.youtube.com/watch?v=oKbm9XFxB2k) 📼 🆓
+            * [Building a Distributed Log from Scratch, Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/) 📰 🆓
+            * [Building a Distributed Log from Scratch, Part 2: Data Replication](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication) 📰 🆓
+            * [Building a Distributed Log from Scratch, Part 3: Scaling Message Delivery](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-3-scaling-message-delivery/) 📰 🆓
+            * [Building a Distributed Log from Scratch, Part 4: Trade-Offs and Lessons Learned](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-4-trade-offs-and-lessons-learned/) 📰 🆓
+            * [Building a Distributed Log from Scratch, Part 5: Sketching a New System](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/) 📰 🆓
+            * Code
+              * [travisjeffery/Jocko](https://github.com/travisjeffery/jocko) - Distributed commit log service in Go
+              * [zowens/commitlog](http://github.com/zowens/commitlog) - Append-only commit log library for Rust
+            * People to Follow
+              * [Tyler Treat](https://twitter.com/tyler_treat?lang=en) 🐦
   * Operations
     * Operating Systems
       * Courses

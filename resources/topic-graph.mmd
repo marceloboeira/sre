@@ -39,6 +39,9 @@ graph TD
         DoS --> ES[ElasticSearch]
 
   SW --> DSi[Distributed Systems]
+    DSi --> EvS[Event Sourcing]
+      DSi --> CQRS[CQRS - Command Query Responsibility Segregation]
+
     DSi --> STM[Streaming]
       STM --> Kakfa
       STM --> Kinesis
