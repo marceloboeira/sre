@@ -117,6 +117,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Distributed Systems
       * Streaming
         * [Kafka](https://kafka.apache.org)
+          * [Introduction to Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE) 📼 🆓
           * Internals
             * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 📰 🆓
             * [How Kafka's Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) 📰 🆓
@@ -177,6 +178,12 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Network
       * [Computer Networks, 5th Edition](http://www.mypearsonstore.com/bookstore/computer-networks-9780132126953?xid=PSED) 📕 💰
       * Protocols
+        * TCP
+          * Build Your Own
+            * [Implementing TCP in Rust (part 1)](https://www.youtube.com/watch?v=bzja9fQWzdA) 📼 🆓
+            * [Implementing TCP in Rust (part 2)](https://www.youtube.com/watch?v=OCpt1I0MWXE) 📼 🆓
+            * [Implementing TCP in Rust (part 3)](https://www.youtube.com/watch?v=8GE6ltLRJA4) 📼 🆓
+            * [Implementing TCP in Rust (code)](https://github.com/jonhoo/rust-tcp) 🆓
     * Monitoring
       * Metrics
         * Prometheus
