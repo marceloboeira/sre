@@ -214,3 +214,17 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * Terraform
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
           * [Infrastructure as Code in the Real World?](https://www.youtube.com/watch?v=S6vS5mzivFo) 📼 🆓
+    * Performance
+      * Profiling
+        * Linux Performance
+          * [Linux Network Performance Parameters](https://github.com/leandromoreira/linux-network-performance-parameters) 📰 🆓 💻
+        * Applications
+          * dtrace
+            * [DTrace Book Scripts](https://github.com/brendangregg/DTrace-book-scripts) 💻 🆓
+          * Rust
+            * [Rustt + Dtrace + Flamegraphs](http://carol-nichols.com/2017/04/20/rust-profiling-with-dtrace-on-osx/) 📰 🆓
+          * Flamegraph
+            * [Tooling to generate FlameGraphs](https://github.com/brendangregg/FlameGraph) 💻 🆓
+            * [Deep dive to CPU FlameGraphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html) 📰 💻 🆓
+            * [Speedscope - visualization tool](http://jamie-wong.com/post/speedscope/) 💻 🆓
+            * [Presentation on FlameGraphs](https://speakerdeck.com/mrfoto/what-are-flame-graphs-and-how-to-read-them) 🎥 🆓
