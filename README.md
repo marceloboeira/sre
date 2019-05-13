@@ -148,6 +148,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
             * People to Follow
               * [Tyler Treat](https://twitter.com/tyler_treat?lang=en) 🐦
   * Operations
+    * Terminal
+      * [Set of Bash Oneliners](https://github.com/onceupon/Bash-Oneliner) 💻 🆓
     * Operating Systems
       * Courses
         * [CS8803 - Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) 🎓 🆓
