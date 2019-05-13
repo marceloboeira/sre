@@ -14,7 +14,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 * 📕 - Book
 * 💻 - Project
 * 🎓 - Online Course
-* 📼 - Video
+* 📼 - Video Presentation / Content
+* 🎥 - Slides Presentation
 * ✍🏼 - Written/Made by me
 * 📝 - My annotations
 * 🆓 - Free / No money required
@@ -27,7 +28,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 
 * Site Reliability Engineering
   * Culture
-    * General Overviwe
+    * General Overview
       * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/) 📕 🆓
         * [Annotations](/) - Coming Soon
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
@@ -47,6 +48,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [Christof Leng - Site Reliability Engineering at Google](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
       * [Squarespace - Implementing SLOs for a New Service](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
       * [Circonous - Shipping Software with an SRE Mindset](https://www.youtube.com/watch?v=TZWWkvxFXls) 📼 🆓
+      * [Circonous - Latency SLOs Done Right](https://www.youtube.com/watch?v=iPotMqzOsDI) 📼 🆓
     * People to Follow
       * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
