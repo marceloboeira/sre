@@ -109,9 +109,26 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Courated List of the 10 best free resources](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 📰 🆓
     * Databases
       * SQL
-        * Postgres
+        * PostgreSQL
+          * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
+          * [How Twitch uses PostgreSQL](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58) 📰 🆓
+          * [Handling Growth with Postgres: 5 Tips From Instagram](https://instagram-engineering.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb) 📰 🆓
+          * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
+          * [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c) 📰 🆓
         * MySQL
+          * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
+          * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓
+          * [Scaling to 100M: MySQL is a Better NoSQL](https://www.wix.engineering/blog/scaling-to-100m-mysql-is-a-better-nosql) 📰 🆓
+          * [Unlocking Horizontal Scalability in Our Web Serving Tier](https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf) 📰 🆓
+          * [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) 📰 🆓
+          * [Evaluating MySQL Parallel Replication Part 4, Annex: Under the Hood](https://medium.com/booking-com-infrastructure/evaluating-mysql-parallel-replication-part-4-annex-under-the-hood-eb456cf8b2fb) 📰 🆓
+          * [Mitigating replication lag and reducing read load with freno](https://github.blog/2017-10-13-mitigating-replication-lag-and-reducing-read-load-with-freno/) 📰 🆓
+          * [Black-Box Auditing: Verifying End-to-End Replication Integrity between MySQL and Redshift](https://engineeringblog.yelp.com/2018/04/black-box-auditing.html) 📰 🆓
+          * [How We Partitioned Airbnb's Main Database in Two Weeks](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)  📰 🆓
+          * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f) 📰 🆓
+          * [How We Replaced Our Data Pipeline With Zero Downtime](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime) 📰 🆓
         * Cassandra
+          * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
