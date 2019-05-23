@@ -152,6 +152,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * Commit Log
           * [Commit Logs in an Age of Microservices - Tim Berglund](https://www.youtube.com/watch?v=bbotWkCLuF0) 📼 🆓
           * Build your Own
+            * [14-bits/voik](https://github.com/14-bits/voik) 💻 🆓
             * [Corfu - A distributed shared log](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) 📰 🆓
             * [Building a Distributed Message Log from Scratch by Tyler Treat - Video](https://www.youtube.com/watch?v=oKbm9XFxB2k) 📼 🆓
             * [Building a Distributed Log from Scratch, Part 1: Storage Mechanics](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/) 📰 🆓
@@ -162,6 +163,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
             * Code
               * [travisjeffery/Jocko](https://github.com/travisjeffery/jocko) - Distributed commit log service in Go
               * [zowens/commitlog](http://github.com/zowens/commitlog) - Append-only commit log library for Rust
+              * [liftbridge-io/liftbridge](http://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams
             * People to Follow
               * [Tyler Treat](https://twitter.com/tyler_treat?lang=en) 🐦
   * Operations
