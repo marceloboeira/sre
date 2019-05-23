@@ -237,6 +237,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Infrastructure as Code in the Real World?](https://www.youtube.com/watch?v=S6vS5mzivFo) 📼 🆓
     * Linux
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
+      * systemd
+        * [systemd Essentials](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) 📰 🆓
     * Performance
       * Profiling
         * Linux Performance
