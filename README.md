@@ -108,7 +108,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Coursera - Algorithms - Part 2 - Graph and string-processing algorithms](https://www.coursera.org/learn/algorithms-part2) 🆓 🎓 📼
         * [Courated List of the 10 best free resources](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 📰 🆓
     * Databases
-      * [Designing Data-Intensive Applications - Martin Kleppmann](http://dataintensive.net) 💰 📕
+      * Theory
+        * [Designing Data-Intensive Applications - Martin Kleppmann](http://dataintensive.net) 📕 💰
+        * [CAP Theorem Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) 📰 🆓
       * SQL
         * PostgreSQL
           * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
