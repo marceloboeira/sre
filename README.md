@@ -170,6 +170,12 @@ At the moment this is not useful for anyone but myself, if at some point I find 
               * [liftbridge-io/liftbridge](http://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams
             * People to Follow
               * [Tyler Treat](https://twitter.com/tyler_treat?lang=en) 🐦
+      * Load Balancing
+        * [Taking Zero-Downtime Load Balancing even Further](https://engineeringblog.yelp.com/2017/05/taking-zero-downtime-load-balancing-even-further.html) 📰 🆓
+        * [Introducing the GitHub Load Balancer](https://github.blog/2016-09-22-introducing-glb/) 📰 🆓
+        * [Improving load balancing with a new consistent-hashing algorithm](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed) 📰 🆓
+        * [UDP Load Balancing with Keepalived](https://developers.500px.com/udp-load-balancing-with-keepalived-167382d7ad08) 📰 🆓
+        * [Introducing QALM, Uber's QoS Load Management Framework](https://eng.uber.com/qalm/) 📰 🆓
   * Operations
     * Terminal
       * [Set of Bash Oneliners](https://github.com/onceupon/Bash-Oneliner) 💻 🆓
