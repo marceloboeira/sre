@@ -249,6 +249,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd
         * [systemd Essentials](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) 📰 🆓
+    * Debug
+      * Core Dumps
+        * [Debugging with Core Dumps](https://www.youtube.com/watch?v=GV10eIuPs9k)
     * Performance
       * Profiling
         * Linux Performance
