@@ -111,6 +111,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * Theory
         * [Designing Data-Intensive Applications - Martin Kleppmann](http://dataintensive.net) 📕 💰
         * [CAP Theorem Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) 📰 🆓
+        * [The Pathologies of Big Data](https://queue.acm.org/detail.cfm?id=1563874) 📰 🆓
       * SQL
         * PostgreSQL
           * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
