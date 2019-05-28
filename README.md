@@ -152,6 +152,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * Internals
             * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 📰 🆓
             * [How Kafka's Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) 📰 🆓
+            * [Why is Kafka so fast](http://searene.me/2017/07/09/Why-is-Kafka-so-fast/) 📰 🆓
         * Kinesis
           * ["Distributed Commit Log: Application Techniques for Transaction Processing" by David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0) 📼 🆓
         * Commit Log
