@@ -144,6 +144,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
     * Distributed Systems
+      * [Distributed Systems, 2nd Edition](https://learning.oreilly.com/library/view/distributed-systems-2nd/9781466552975/) 📕 💰
+      * [Distributed Systems Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/) 📕 💰
+      * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
+      * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
       * Event Sourcing / CQRS
         * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
         * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
