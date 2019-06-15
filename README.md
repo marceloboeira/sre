@@ -308,6 +308,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Netflix - Linux Systems Performance - Brendan Gregg](https://www.youtube.com/watch?v=CbmEDXq7es0) 📼 🆓
           * [Netflix - Linux Performance - Brendan Gregg](https://www.youtube.com/watch?v=FJW8nGV4jxY) 📼 🆓
           * [How Netflix Tunes Amazon EC2 Instances for Performance - Brendan Gregg](https://www.youtube.com/watch?v=89fYOo1V2pA) 📼 🆓
+        * Docker Container
+          * [Netflix - Container Performance Analysis](https://www.youtube.com/watch?v=bK9A5ODIgac) 📼 🆓
         * Applications
           * dtrace
             * [DTrace Book Scripts](https://github.com/brendangregg/DTrace-book-scripts) 💻 🆓
