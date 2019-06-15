@@ -295,7 +295,16 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * Profiling
         * Linux Performance
           * [Linux Network Performance Parameters - Leandro Moreira](https://github.com/leandromoreira/linux-network-performance-parameters) 📰 🆓 💻
-          * [Linux Performance Hub - Brendan Greg](http://www.brendangregg.com/linuxperf.html) 📰 🆓 💻
+          * [Linux Performance Hub - Brendan Gregg](http://www.brendangregg.com/linuxperf.html) 📰 🆓 💻
+          * [Linux Perf](http://www.brendangregg.com/perf.html) 📰 🆓 💻
+          * [Linux Extended BPF (eBPF) Tracing Tools](http://www.brendangregg.com/ebpf.html) 📰 🆓 💻
+          * Charts
+            * [Linux Performance Observability Tools](http://www.brendangregg.com/Perf/linux_observability_tools.png) 🏙 🆓
+            * [Linux Performance Benchmark Tools](http://www.brendangregg.com/Perf/linux_benchmarking_tools.png) 🏙 🆓
+            * [Linux Performance Tuning Tools](http://www.brendangregg.com/Perf/linux_tuning_tools.png) 🏙 🆓
+          * [Netflix - Linux Systems Performance - Brendan Gregg](https://www.youtube.com/watch?v=CbmEDXq7es0) 📼 🆓
+          * [Netflix - Linux Performance - Brendan Gregg](https://www.youtube.com/watch?v=FJW8nGV4jxY) 📼 🆓
+          * [How Netflix Tunes Amazon EC2 Instances for Performance - Brendan Gregg](https://www.youtube.com/watch?v=89fYOo1V2pA) 📼 🆓
         * Applications
           * dtrace
             * [DTrace Book Scripts](https://github.com/brendangregg/DTrace-book-scripts) 💻 🆓
