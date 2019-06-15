@@ -102,8 +102,11 @@ At the moment this is not useful for anyone but myself, if at some point I find 
             * Testing Frameworks
               * [Speculate](https://github.com/utkarshkukreti/speculate.rs) Adds RSpec like behavior to rust via macros
         * Go
+          * Concurrency
+            * [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/) 📕 💰
           * Garbage Collector
             * [Golang's Realtime GC in Theory and Practice](https://www.youtube.com/watch?v=bMujSVMarqY) 📼 🆓
+            * [Garbage Colletor Handbook](https://learning.oreilly.com/library/view/the-garbage-collection/9781315388007/) 📕 💰
     * Programming Topics
       * Algorithms and Data Structures
         * [Udacity - Intro to Data Structures and Algorithms by Google](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513) 🆓 🎓 📼
