@@ -93,6 +93,8 @@ graph TD
         Orc --> K8S[Kubernetes]
         Orc --> Mesos
         Orc --> Nomad
+        Orc --> SerM[ServiceMesh]
+          SerM --> IsT[Istio]
     OPS --> NET[Networking]
       NET --> NETP[Protocols]
         NETP --> Socket
