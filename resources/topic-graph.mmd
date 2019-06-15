@@ -48,6 +48,10 @@ graph TD
       STM --> Kafka
       STM --> Kinesis
       STM --> NATS
+    DSi --> RPC[Remote Procedure Call]
+      RPC --> AVRO
+      RPC --> Protobufs
+      RPC --> Thrift
 
   SRE --> OPS[Operations]
     OPS --> OS[Operating Systems]

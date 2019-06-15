@@ -202,6 +202,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * Distributed Processing
         * Hadoop
           * [Hadoop: Up & Running](https://learning.oreilly.com/library/view/hadoop-the-definitive/9781491901687/) 📕 💰
+      * RPC - Remote Procedure Call
+        * [Schema Evolution: AVRO, Protobufs and Thrift](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html) 📰 🆓
+        * [AVRO vs Protobufs vs Thrift](https://www.slideshare.net/IgorAnishchenko/pb-vs-thrift-vs-avro) 📰 🆓
   * Operations
     * Terminal
       * [Set of Bash Oneliners](https://github.com/onceupon/Bash-Oneliner) 💻 🆓
