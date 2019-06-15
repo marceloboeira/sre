@@ -86,6 +86,7 @@ graph TD
         CfgMgt --> Chef
       IaC --> Prov[Provisioning]
         Prov --> TF[Terraform]
+        Prov --> PK[Packer]
       IaC --> Orc[Orchestration]
         Orc --> K8S[Kubernetes]
         Orc --> Mesos
