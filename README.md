@@ -54,6 +54,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
 
   * Software Engineering
+    * Version Control
+      * GIT
+        * [Version Control with Git](https://learning.oreilly.com/library/view/version-control-with/9781449345037/) 📕 💰
     * Programming Languages
       * Paradigms
         * [Coursera - Programming Languages - Part A](https://www.coursera.org/learn/programming-languages) 📼 🎓 🆓
