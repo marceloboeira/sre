@@ -198,6 +198,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Improving load balancing with a new consistent-hashing algorithm](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed) 📰 🆓
         * [UDP Load Balancing with Keepalived](https://developers.500px.com/udp-load-balancing-with-keepalived-167382d7ad08) 📰 🆓
         * [Introducing QALM, Uber's QoS Load Management Framework](https://eng.uber.com/qalm/) 📰 🆓
+      * Distributed Processing
+        * Hadoop
+          * [Hadoop: Up & Running](https://learning.oreilly.com/library/view/hadoop-the-definitive/9781491901687/) 📕 💰
   * Operations
     * Terminal
       * [Set of Bash Oneliners](https://github.com/onceupon/Bash-Oneliner) 💻 🆓

@@ -41,7 +41,9 @@ graph TD
   SW --> DSi[Distributed Systems]
     DSi --> EvS[Event Sourcing]
       DSi --> CQRS[CQRS - Command Query Responsibility Segregation]
-
+    DSi --> DPro[Distributed Processing]
+      DPro --> HDP[Hadoop]
+    DSi --> DLB[Load Balancing]
     DSi --> STM[Streaming]
       STM --> Kafka
       STM --> Kinesis
