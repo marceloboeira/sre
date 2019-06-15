@@ -139,10 +139,13 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [How We Replaced Our Data Pipeline With Zero Downtime](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime) 📰 🆓
         * Cassandra
           * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
+          * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
+          * Redis
+            * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
     * Distributed Systems
       * [Distributed Systems, 2nd Edition](https://learning.oreilly.com/library/view/distributed-systems-2nd/9781466552975/) 📕 💰
       * [Distributed Systems Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/) 📕 💰
@@ -159,10 +162,14 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Introduction to Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE) 📼 🆓
           * [Commit Logs in an Age of Microservices - Tim Berglund](https://www.youtube.com/watch?v=bbotWkCLuF0) 📼 🆓
           * [Should you put several event types in the same Kafka topic? - Martin Kleppmann](https://martin.kleppmann.com/2018/01/18/event-types-in-kafka-topic.html) 📰 🆓
+          * Practical
+            * [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) 📕 💰
           * Internals
             * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 📰 🆓
             * [How Kafka's Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) 📰 🆓
             * [Why is Kafka so fast](http://searene.me/2017/07/09/Why-is-Kafka-so-fast/) 📰 🆓
+        * NATS
+          * [Practical NATS: From Beginner to Pro](https://www.amazon.com/Practical-NATS-Beginner-Waldemar-Quevedo/dp/148423569X) 📕 💰
         * Kinesis
           * ["Distributed Commit Log: Application Techniques for Transaction Processing" by David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0) 📼 🆓
         * Commit Log
@@ -221,6 +228,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Beyond Multiprocessing: Multithreading the Sun OS Kernel by Eykholt](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf) 📰 🆓
         * [Implementing Lightweight Threads by Stein and Shah](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf) 📰 🆓
         * [How to create and join threads in C (pthreads)](https://www.youtube.com/watch?v=uA8X5zNOGw8) 📼 🆓
+        * [Programming with POSIX ® Threads](https://learning.oreilly.com/library/view/programming-with-posix/0201633922/) 📕 💰
+
        * Virtual Memory
          * [The Heap: what does malloc() do?](https://www.youtube.com/watch?v=HPDBOhiKaD8) 📼 🆓
          * mmap
