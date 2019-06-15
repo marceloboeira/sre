@@ -276,7 +276,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Performance
       * Profiling
         * Linux Performance
-          * [Linux Network Performance Parameters](https://github.com/leandromoreira/linux-network-performance-parameters) 📰 🆓 💻
+          * [Linux Network Performance Parameters - Leandro Moreira](https://github.com/leandromoreira/linux-network-performance-parameters) 📰 🆓 💻
+          * [Linux Performance Hub - Brendan Greg](http://www.brendangregg.com/linuxperf.html) 📰 🆓 💻
         * Applications
           * dtrace
             * [DTrace Book Scripts](https://github.com/brendangregg/DTrace-book-scripts) 💻 🆓
