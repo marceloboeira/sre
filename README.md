@@ -121,6 +121,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [The Pathologies of Big Data](https://queue.acm.org/detail.cfm?id=1563874) 📰 🆓
       * SQL
         * PostgreSQL
+          * [Learning PostgreSQL 11](https://learning.oreilly.com/library/view/learning-postgresql-11/9781789535464/) 📕 💰
+          * [Mastering PostgreSQL 11 - Second Edition](https://learning.oreilly.com/library/view/mastering-postgresql-11/9781789537819/) 📕 💰
           * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
           * [How Twitch uses PostgreSQL](https://blog.twitch.tv/how-twitch-uses-postgresql-c34aa9e56f58) 📰 🆓
           * [Handling Growth with Postgres: 5 Tips From Instagram](https://instagram-engineering.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb) 📰 🆓
