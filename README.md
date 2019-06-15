@@ -94,13 +94,14 @@ At the moment this is not useful for anyone but myself, if at some point I find 
             * SubProjects
               * [grab](https://github.com/marceloboeira/grab) 👋🏼 like grep, but simpler [Chapters' 12/13 project].
               * [dull](https://github.com/marceloboeira/dull) 🤪 a dummy multi-thread HTTP server [Chapter's 20 project].
-            * General Overview
-              * [Aaron Turon - Rust: confident, productive systems programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) 📼 🆓
-              * [Steve Klabnik - The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) 📼 🆓
-            * Use cases
-              * [Raph Levien - A Modern Editor Built in Rust](https://www.youtube.com/watch?v=SKtQgFBRUvQ) 📼 🆓
-            * Testing Frameworks
-              * [Speculate](https://github.com/utkarshkukreti/speculate.rs) Adds RSpec like behavior to rust via macros
+          * General Overview
+            * [Aaron Turon - Rust: confident, productive systems programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) 📼 🆓
+            * [Steve Klabnik - The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) 📼 🆓
+          * Use cases
+            * [Raph Levien - A Modern Editor Built in Rust](https://www.youtube.com/watch?v=SKtQgFBRUvQ) 📼 🆓
+          * Testing Frameworks
+            * [Speculate](https://github.com/utkarshkukreti/speculate.rs) Adds RSpec like behavior to rust via macros
+          * [Programming Rust](https://learning.oreilly.com/library/view/programming-rust/9781491927274/) 📕 💰
         * Go
           * Concurrency
             * [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/) 📕 💰
