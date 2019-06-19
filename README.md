@@ -155,6 +155,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [Distributed Systems Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/) 📕 💰
       * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
       * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
+      * [Distributed Systems Training](https://github.com/pingcap/talent-plan) 📰 🆓
       * Event Sourcing / CQRS
         * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
         * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
