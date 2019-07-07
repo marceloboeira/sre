@@ -30,7 +30,6 @@ At the moment this is not useful for anyone but myself, if at some point I find 
   * Culture
     * General Overview
       * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/) 📕 🆓
-        * [Annotations](/) - Coming Soon
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
       * [SRE - Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) 📼 🆓
       * Google Series on SRE - class SRE implements DevOps
