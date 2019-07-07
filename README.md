@@ -271,6 +271,11 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * Infrastructure as Code
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
+      * Containers
+        * [Docker](https://www.docker.com)
+          * Testing
+            * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
+              * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
       * Orchestration
         * Kubernetes
           * Internals

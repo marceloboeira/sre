@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=aZjYr87r1b8
 https://github.com/zowens/commitlog/blob/master/src/file_set.rs#L17-L98
 Distributed Systems
 - Raft
+  - https://www.youtube.com/watch?time_continue=5&v=Hm_m4MIXn9Q
 - Paxos
 
 https://www.amazon.de/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/ref=pd_rhf_dp_s_pd_crcd_0_7/257-9514931-3061115?_encoding=UTF8&pd_rd_i=1491983647&pd_rd_r=1815f6be-471d-4f48-b420-f0399955883d&pd_rd_w=9aqLb&pd_rd_wg=oxfmN&pf_rd_p=7538ba11-5fe0-47c6-a94f-8715960a4f1d&pf_rd_r=5Z9WWAJ2DD72JDKND0FD&psc=1&refRID=5Z9WWAJ2DD72JDKND0FD

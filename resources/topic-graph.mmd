@@ -86,6 +86,8 @@ graph TD
           Netw --> airmon
           Netw --> airodump
     OPS --> IaC[Infrastructure as Code]
+      IaC --> Cont[Containers]
+        Cont --> Docker
       IaC --> CfgMgt[Configuration Management]
         CfgMgt --> Puppet
         CfgMgt --> Ansible
