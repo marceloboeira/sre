@@ -118,6 +118,13 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Designing Data-Intensive Applications - Martin Kleppmann](http://dataintensive.net) 📕 💰
         * [CAP Theorem Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/) 📰 🆓
         * [The Pathologies of Big Data](https://queue.acm.org/detail.cfm?id=1563874) 📰 🆓
+        * Scaling
+        * Replication
+          * --
+        * Sharding
+          * [Understanding Database Sharding - DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding) 📰 🆓 ⭐️
+          * [Sharding in Plain English - Citrus Data Blog](https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/) 📰 🆓 
+          * [Introduction to Sharding - B's March (MongoDB Focused)](https://www.youtube.com/watch?v=4upppuW7lGE)
       * SQL
         * PostgreSQL
           * [Postgres: Up & Running](https://learning.oreilly.com/library/view/postgresql-up-and/9781491963401/) 📕 💰 ⭐️

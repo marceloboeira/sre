@@ -27,16 +27,21 @@ graph TD
       DS --> HS[Hash]
 
     SW --> DB[Databases]
-    DB --> SQL[SQL]
-      SQL --> PgSQL
-      SQL --> MySQL
-      SQL --> Cassandra
-    DB --> NoSQL[NoSQL]
-      NoSQL --> KV[KeyValue]
-        KV --> Rd[Redis]
-      NoSQL --> DoS[DocumentStore]
-        DoS --> Mng[Mongo]
-        DoS --> ES[ElasticSearch]
+      DB --> DBT[Theory]
+        DBT --> CAP[CAP Theorem]
+        DBT --> DBTS[Scaling]
+        DBT --> DBTR[Replication]
+        DBT --> DBTX[Sharding]
+      DB --> SQL[SQL]
+        SQL --> PgSQL
+        SQL --> MySQL
+        SQL --> Cassandra
+      DB --> NoSQL[NoSQL]
+        NoSQL --> KV[KeyValue]
+          KV --> Rd[Redis]
+        NoSQL --> DoS[DocumentStore]
+          DoS --> Mng[Mongo]
+          DoS --> ES[ElasticSearch]
 
   SW --> DSi[Distributed Systems]
     DSi --> EvS[Event Sourcing]
