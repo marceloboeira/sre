@@ -284,6 +284,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
       * Containers
         * [Docker](https://www.docker.com)
+          * Guides
+            * [Dockerfile Best Practices - ThoughtWorks](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) 📰 🆓
           * Testing
             * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
               * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
