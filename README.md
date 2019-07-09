@@ -28,7 +28,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 
 * Site Reliability Engineering
   * Culture
-    * General Overview
+    * Introductory
+      * [So you want to be an SRE? - Krishelle Hardson-Hurley](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c) 📰 🆓
+    * Deeper Introduction
       * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/) 📕 🆓
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
       * [SRE - Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) 📼 🆓
@@ -51,6 +53,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
     * People to Follow
       * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
+    * Monitoring (See later Section)
+    * Being on Call
+    * Post-mortem
+    *
 
   * Software Engineering
     * Version Control
@@ -291,6 +297,9 @@ At the moment this is not useful for anyone but myself, if at some point I find 
               * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
       * Orchestration
         * Kubernetes
+          * History
+            * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
+            * [Dockercon keynote: Eric Brewer (Google) - First k8s presentation](https://www.youtube.com/watch?v=YrxnVKZeqK8) 📼 🆓
           * Internals
             * [Understanding Distributed Consensus in etcd and Kubernetes - Laura Frank, CloudBees](https://www.youtube.com/watch?v=n9VKAKwBj_0) 📼 🆓
             * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw) 📼 🆓
