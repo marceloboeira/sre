@@ -54,7 +54,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 
   * Software Engineering
     * Version Control
-      * GIT
+      * git
         * [Version Control with Git](https://learning.oreilly.com/library/view/version-control-with/9781449345037/) 📕 💰
     * Programming Languages
       * Paradigms
@@ -123,8 +123,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * --
         * Sharding
           * [Understanding Database Sharding - DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-database-sharding) 📰 🆓 ⭐️
-          * [Sharding in Plain English - Citrus Data Blog](https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/) 📰 🆓 
-          * [Introduction to Sharding - B's March (MongoDB Focused)](https://www.youtube.com/watch?v=4upppuW7lGE)
+          * [Sharding in Plain English - Citrus Data Blog](https://www.citusdata.com/blog/2018/01/10/sharding-in-plain-english/) 📰 🆓
+          * [Introduction to Sharding - B's March (MongoDB Focused)](https://www.youtube.com/watch?v=4upppuW7lGE) 📼 🆓
+          * [Sharding & Database Partitioning | System Design Basics](https://www.youtube.com/watch?v=RynPj8C0BXA) 📼 🆓
+          * [System Design - Sharding | Data Partitioning](https://www.youtube.com/watch?v=yNrVexoEnFM) 📼 🆓
       * SQL
         * PostgreSQL
           * [Postgres: Up & Running](https://learning.oreilly.com/library/view/postgresql-up-and/9781491963401/) 📕 💰 ⭐️
@@ -135,6 +137,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Handling Growth with Postgres: 5 Tips From Instagram](https://instagram-engineering.com/handling-growth-with-postgres-5-tips-from-instagram-d5d7e7ffdfcb) 📰 🆓
           * [Updating a 50 terabyte PostgreSQL database](https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7) 📰 🆓
           * [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c) 📰 🆓
+          * [Sharding and Scaling PostgreSQL: Principles and Practice Webinar](https://www.youtube.com/watch?v=mbXPbLjiYTI) 📼 🆓
+          * [Citus vs. Single-Node Postgres Database | A Side-by-Side Comparison](https://www.youtube.com/watch?v=g3H4nGsJsl0) 📼 🆓
         * MySQL
           * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
           * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓
@@ -147,6 +151,7 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [How We Partitioned Airbnb's Main Database in Two Weeks](https://medium.com/airbnb-engineering/how-we-partitioned-airbnb-s-main-database-in-two-weeks-55f7e006ff21)  📰 🆓
           * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f) 📰 🆓
           * [How We Replaced Our Data Pipeline With Zero Downtime](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime) 📰 🆓
+          * [Vitess: MySQL Sharding - Square Engineering](https://www.youtube.com/watch?v=q65TleTn2vg) 📼 🆓
         * Cassandra
           * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
           * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
