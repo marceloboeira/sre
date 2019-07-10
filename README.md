@@ -34,6 +34,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
       * [Site Reliability Engineering - How Google Runs Production Systems](https://landing.google.com/sre/books/) 📕 🆓
       * [The Site Reliability Workbook - Practical Ways to Implement SRE](https://landing.google.com/sre/books/) 📕 🆓
       * [SRE - Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M) 📼 🆓
+      * [Keys to SRE - Google](https://www.youtube.com/watch?v=n4Wf14e2jxQ) 📼 🆓
+      * [Who/What? is SRE - Google (Panel)](https://www.youtube.com/watch?v=P83XESU3oZ8) 📼 🆓
       * Google Series on SRE - class SRE implements DevOps
         * [What's the Difference Between DevOps and SRE?](https://www.youtube.com/watch?v=uTEL8Ff1Zvk) 📼 🆓
         * [SLIs, SLOs, SLAs, oh my!](https://www.youtube.com/watch?v=tEylFyxbDLE) 📼 🆓
@@ -46,17 +48,19 @@ At the moment this is not useful for anyone but myself, if at some point I find 
         * [Incident Management](https://www.youtube.com/watch?v=n4y9dwinPBQ) 📼 🆓
         * [Postmortems and Retrospectives](https://www.youtube.com/watch?v=UBe7U2b3tsA) 📼 🆓
     * Use cases
-      * [Christof Leng - Site Reliability Engineering at Google](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
-      * [Squarespace - Implementing SLOs for a New Service](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
-      * [Circonous - Shipping Software with an SRE Mindset](https://www.youtube.com/watch?v=TZWWkvxFXls) 📼 🆓
-      * [Circonous - Latency SLOs Done Right](https://www.youtube.com/watch?v=iPotMqzOsDI) 📼 🆓
+      * [Site Reliability Engineering - Google - Christof Leng](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
+      * [Implementing SLOs for a New Service - Squarespace](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
+      * [Shipping Software with an SRE Mindset - Circonous](https://www.youtube.com/watch?v=TZWWkvxFXls) 📼 🆓
+      * [Latency SLOs Done Right - Circonous](https://www.youtube.com/watch?v=iPotMqzOsDI) 📼 🆓
+      * [Site Reliability Engineering at Dropbox - Tammy Buttow](https://www.youtube.com/watch?v=ggizCjUCCqE) 📼 🆓
+      * [190 Countries and 5 core SREs - Netflix - Jonah Horowitz](https://www.youtube.com/watch?v=koGaH4ffXaU) 📼 🆓
     * People to Follow
       * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
+      * [Tammy Buttow](https://twitter.com/tammybutow)
     * Monitoring (See later Section)
     * Being on Call
     * Post-mortem
-    *
 
   * Software Engineering
     * Version Control
@@ -168,11 +172,13 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * Redis
             * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
     * Distributed Systems
-      * [Distributed Systems, 2nd Edition](https://learning.oreilly.com/library/view/distributed-systems-2nd/9781466552975/) 📕 💰
-      * [Distributed Systems Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/) 📕 💰
-      * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
-      * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
-      * [Distributed Systems Training](https://github.com/pingcap/talent-plan) 📰 🆓
+      * Theory
+        * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) 📰 🆓
+        * [Distributed Systems, 2nd Edition](https://learning.oreilly.com/library/view/distributed-systems-2nd/9781466552975/) 📕 💰
+        * [Distributed Systems Observability](https://learning.oreilly.com/library/view/distributed-systems-observability/9781492033431/) 📕 💰
+        * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
+        * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
+        * [Distributed Systems Training](https://github.com/pingcap/talent-plan) 📰 🆓
       * Event Sourcing / CQRS
         * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
         * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
