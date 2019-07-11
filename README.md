@@ -316,6 +316,8 @@ At the moment this is not useful for anyone but myself, if at some point I find 
           * [Kubernetes Up and Running](http://shop.oreilly.com/product/0636920043874.do#tab_04_2) 📕 💰
           * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
           * [Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) 📕 💰
+          * Operators
+            * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
         * Service Mesh
           * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
       * Provisioning
