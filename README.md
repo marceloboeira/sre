@@ -277,6 +277,12 @@ At the moment this is not useful for anyone but myself, if at some point I find 
               * [CPU scheduling Practice - FCFS, SJF, MLFQ](https://www.youtube.com/watch?v=FYcc9D8llF0) 📼 🆓
               * [Multi level queues and multi level feedback queues](https://www.youtube.com/watch?v=1w9FybdNi_Y) 📼 🆓
               * [Designing of vague logic based multilevel feedback queue scheduler](https://www.researchgate.net/publication/283959697_Designing_of_vague_logic_based_multilevel_feedback_queue_scheduler) 🆓 📰
+          * Linux
+            * O(n), O(1) and CFS
+              * [Thread on CFS](https://web.archive.org/web/20120205030735/http://kerneltrap.org/node/11737) 🆓 🌍
+              * [The Linux Kernel Scheduler (For Beginners)](https://www.youtube.com/watch?v=5WtnnzpwEuA) 📼 🆓
+              * [Operating System #21 Scheduling in Linux: O(n), O(1) Scheduler](https://www.youtube.com/watch?v=vF3KKMI3_1s) 📼 🆓
+
        * Virtual Memory
          * [The Heap: what does malloc() do?](https://www.youtube.com/watch?v=HPDBOhiKaD8) 📼 🆓
          * mmap
