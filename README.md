@@ -263,6 +263,10 @@ At the moment this is not useful for anyone but myself, if at some point I find 
          * ["An Introduction to Programming with Threads"](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf) by Birrell 📰 🆓
          * POSIX Threads (PThreads)
            * [PThreads / POSIX Threads Coding Examples](https://computing.llnl.gov/tutorials/pthreads/) 📰 🆓
+           * IBM Series
+             * [POSIX threads explained: Part 1](https://www.ibm.com/developerworks/library/l-posix1/index.html) 📰 🆓
+             * [POSIX threads explained: Part 2](https://www.ibm.com/developerworks/library/l-posix2/index.html) 📰 🆓
+             * [POSIX threads explained: Part 3](https://www.ibm.com/developerworks/library/l-posix3/index.html) 📰 🆓
         * [Beyond Multiprocessing: Multithreading the Sun OS Kernel by Eykholt](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-eykholt-paper.pdf) 📰 🆓
         * [Implementing Lightweight Threads by Stein and Shah](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-stein-shah-paper.pdf) 📰 🆓
         * [How to create and join threads in C (pthreads)](https://www.youtube.com/watch?v=uA8X5zNOGw8) 📼 🆓
