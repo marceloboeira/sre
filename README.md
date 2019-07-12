@@ -6,8 +6,33 @@ At the moment this is not useful for anyone but myself, if at some point I find 
 <img src="resources/topic-graph.png" width="100%">
 (click to see the large version)
 
-### More info
-> Information about the links
+## How to use this repo?
+
+The README topics/links are organized following above chart. High-level subjects are usually parent topics, sub-topics are usually specialization of the main subject.
+
+Depending on your level, you can dive deeper into a subject's sub-topics, or just move to the next one.
+
+* Left to write: indicate how generic subjects are
+* Top-bottom: Order of importance/relevancy and specialization of each subject or sub-category
+
+e.g.:
+
+Software Engineering
+  * Databases
+    * SQL
+      * Postgres Basics
+      * Postgres Internal
+        * How postgres replication works
+        * Parsing postgres WAL(WriteAheadLog)
+  * Versioning
+
+For instance, take into account the snaptshot above. If you already know how to use SQL Databases, you might want to either:
+
+* Continue to the right, learning more more about Postgres, and to the bottom, its internals, specialized internals like replication and WAL.
+* Continue to the bottom/next topic: `Programming Languages`.
+
+### Tags
+> Categories to the links
 
 * 🌍 - Interesting Link
 * 📰 - Article / Paper
