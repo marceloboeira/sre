@@ -121,6 +121,7 @@ For instance, take into account the snaptshot above. If you already know how to 
               * [Computerphile - Y Combinator](https://www.youtube.com/watch?v=9T8A89jgeTI) 📼 🆓
           * Monads
             * [Computerphile - What is a Monad?](https://www.youtube.com/watch?v=t1e8gqXLbsU) 📼 🆓
+            * [Functional Programming Patterns for Mere Mortals - Daniel Chambers](https://www.youtube.com/watch?v=v9QGWbGppis) 📼 🆓
       * **Systems Programming Languages**
         * Rust
           * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) 📕 🆓
