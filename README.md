@@ -175,6 +175,11 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c) 📰 🆓
           * [Sharding and Scaling PostgreSQL: Principles and Practice Webinar](https://www.youtube.com/watch?v=mbXPbLjiYTI) 📼 🆓
           * [Citus vs. Single-Node Postgres Database | A Side-by-Side Comparison](https://www.youtube.com/watch?v=g3H4nGsJsl0) 📼 🆓
+          * Replication
+            * [Three Approaches to PostgreSQL Replication and Backup](https://www.citusdata.com/blog/2018/02/21/three-approaches-to-postgresql-replication/) 📰 🆓
+            * [PostgreSQL Streaming Replication](https://www.youtube.com/watch?v=NaPnYQBBdyU) 📼 🆓
+            * [PostgreSQL Replication Concepts](https://www.youtube.com/watch?v=fsMvr96gTjY) 📼 🆓
+            * [PostgreSQL Replication by example - Kobus Wolvaardt](https://www.youtube.com/watch?v=5BeC1aD4z8E) 📼 🆓 ⭐️
         * MySQL
           * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
           * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓
