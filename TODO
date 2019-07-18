@@ -1,8 +1,5 @@
 * Packer
 
-* International Law
-  * https://www.youtube.com/watch?v=EYPs-ya_GDA
-
 - Performance Tests
   Apache Benchmark
   Vegeta
@@ -40,10 +37,6 @@ Redis with WAL?
 Zero Copy
 TCP/Network/OS
 
-SLO Study Case
-  https://www.youtube.com/watch?v=ffbGyHPWwZM
-  https://www.youtube.com/watch?v=GDo-Ixy_i9k
-
 PGSQL WAL -> https://www.youtube.com/watch?v=feTihjJJs3g
 https://www.youtube.com/watch?v=clrtT_4WBAw PGSQL Indexing
 PG SCALING -> https://www.youtube.com/watch?v=Jvdtx-Smffo
@@ -66,27 +59,45 @@ Git *Under the hood*
 
 Commit Logs
 
-
 MISC
 
 https://www.youtube.com/watch?v=NcaiHcBvDR4
+https://github.com/djhworld/simple-computer
+https://github.com/luong-komorebi/Begin-Latex-in-minutes
+https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf
 
+------------
 
-Scalability
-https://github.com/binhnguyennus/awesome-scalability
+CLI
 
-Art of the command line
 https://github.com/jlevy/the-art-of-command-line
 
-https://github.com/djhworld/simple-computer
+Linux Performance
+
 http://www.brendangregg.com/linuxperf.html
 
-https://github.com/luong-komorebi/Begin-Latex-in-minutes
+SRE
+
+https://github.com/mxssl/sre-interview-prep-guide
+https://www.coursera.org/learn/site-reliability-engineering-slos
+https://www.youtube.com/watch?v=GDo-Ixy_i9k
+
+Distributed Systems
+
 https://github.com/lorin/resilience-engineering
 https://github.com/lorin/systems-reading
 https://github.com/lorin/availability-reading
 
-https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-pai-paper.pdf
+Scalability
 
-Learning How to Learn
+https://github.com/binhnguyennus/awesome-scalability
+
+-------------
+
+Non-Computing
+
+* International Law
+https://www.youtube.com/watch?v=EYPs-ya_GDA
+
+* Learning How to Learn
 https://www.youtube.com/watch?v=Z2N5a7XZWg8
