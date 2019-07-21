@@ -113,3 +113,16 @@ Probabilistic Data Structures
 * BloomFilter
 https://www.youtube.com/watch?v=heEDL9usFgs
 https://www.youtube.com/watch?v=Bay3X9PAX5k
+
+* Hashing
+* CRC32
+https://github.com/Michaelangel007/crc32#introduction
+http://stigge.org/martin/pub/SAR-PR-2006-05.pdf
+https://web.archive.org/web/20130420172816/http://home.comcast.net/~bretm/hash/8.html
+http://mdfs.net/Info/Comp/Comms/CRC32.htm
+https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed
+https://stackoverflow.com/questions/26049150/calculate-a-32-bit-crc-lookup-table-in-c-c
+https://wiki.osdev.org/CRC32
+https://stackoverflow.com/questions/10953958/can-crc32-be-used-as-a-hash-function
+https://tools.ietf.org/html/rfc3385
+https://tools.ietf.org/doc/tcllib/html/crc16.html
