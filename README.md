@@ -340,6 +340,7 @@ For instance, take into account the snaptshot above. If you already know how to 
         * InfluxDB
           * [InfluxDB - Time Series Database](https://www.youtube.com/watch?v=2SUBRE6wGiA) 📼 🆓
       * Tracing
+        * [Intro to Distributed Tracing](https://www.kartar.net/2019/07/intro-to-distributed-tracing/) 📰 🆓
         * [Mastering Distributed Tracing](https://learning.oreilly.com/library/view/mastering-distributed-tracing/9781788628464/) 📕 💰
     * Infrastructure as Code
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
