@@ -149,6 +149,21 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Coursera - Algorithms - Part 1 - Elementary data structures, sorting, and searching algorithms](https://www.coursera.org/learn/algorithms-part1) 🆓 🎓 📼
         * [Coursera - Algorithms - Part 2 - Graph and string-processing algorithms](https://www.coursera.org/learn/algorithms-part2) 🆓 🎓 📼
         * [Courated List of the 10 best free resources](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 📰 🆓
+         * Alternative Data Structures
+           * [“Esoteric Data Structures and Where to Find Them” - Allan Deutsch](https://www.youtube.com/watch?v=-8UZhDjgeZU) 📼 🆓
+                * 0:36 Slot map
+                * 10:08 Bloom filters (non-counting)
+                * 16:46 Navigation meshes
+                * 20:36 Hash pointer / Block chain / Merkle tree
+           * Probabilistic Data Structures
+             * Bloom Filter
+               * [An Introduction to Bloom Filter (Probably Yes, Always No)](https://www.youtube.com/watch?v=x2sLjRK56YU) 📼 🆓
+               * [Bloom Filters](https://www.youtube.com/watch?v=heEDL9usFgs) 📼 🆓
+               * [Bloom filter for System Design applications](https://www.youtube.com/watch?v=Bay3X9PAX5k) 📼 🆓
+               * [Bloom Filters](https://www.youtube.com/watch?v=bEmBh1HtYrw) 📼 🆓
+             * Count-Min-Sketch
+               * [Big Data with Sketchy Structures, Part 1 — the Count-Min Sketch](https://towardsdatascience.com/big-data-with-sketchy-structures-part-1-the-count-min-sketch-b73fb3a33e2a) 📰 🆓
+               * [Count min sketch | Efficient algorithm for counting stream of data | system design components](https://www.youtube.com/watch?v=ibxXO-b14j4) 📼 🆓
     * Databases
       * Theory
         * [Designing Data-Intensive Applications - Martin Kleppmann](http://dataintensive.net) 📕 💰
