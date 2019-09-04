@@ -129,6 +129,8 @@ https://tools.ietf.org/doc/tcllib/html/crc16.html
 
 ---- System Design
 https://github.com/shashank88/system_design
+https://americanexpress.io/eliminate-the-database-for-higher-availability/
+http://thesecretlivesofdata.com/raft/
 
 ----- Distributed Systems
 https://www.youtube.com/watch?v=nyNCSM4vGF4
@@ -141,3 +143,4 @@ https://developer.ibm.com/tutorials/l-virtual-filesystem-switch/
 ------------ Persistent memory
 
 https://github.com/pmem/book
+
