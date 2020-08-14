@@ -393,7 +393,15 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
         * Service Mesh
-          * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
+          * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
+          * Istio
+            * [Istio Explained - IBM Videos](https://www.youtube.com/watch?v=6zDrLvpfCK4) 📼 🆓
+            * [What is Istio? ](https://www.youtube.com/watch?v=1iyFq2VaL5Y) 📼 🆓
+              * Nomad
+              * Console
+            * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
+          * AppMesh
+            *
       * Provisioning
         * Terraform
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
