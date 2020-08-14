@@ -218,6 +218,9 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
           * Redis
             * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
+       * RDS
+         * Aurora
+           * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
     * Distributed Systems
       * Theory
         * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) 📰 🆓
@@ -392,6 +395,13 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) 📕 💰
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
+          * EKS - Elastic Kubernetes Service
+            * [EKS - Deep Dive](https://www.youtube.com/watch?v=EDaGpxZ6Qi0) 📼 📼
+                * 08:50 - Control Plane
+                * 10:19 - Control Plane Internals (not shared tenent, endpoints exposed to internet, worker nodes need access to the internet, NLB)
+                * 19:00 - Version Updates
+                * 20:00 - Authentication (IAM -> Authentication | RBAC -> Authorization)
+                * 20:00 - [AMI is OpenSource](https://github.com/awslabs/amazon-eks-ami)
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
@@ -401,7 +411,7 @@ For instance, take into account the snaptshot above. If you already know how to 
               * Console
             * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
           * AppMesh
-            *
+            * [AWS Container Day - App Mesh (Service Mesh Magic)](https://www.youtube.com/watch?v=hfzWtXKrv88) 🆓 📼
       * Provisioning
         * Terraform
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
