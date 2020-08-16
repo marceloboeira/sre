@@ -390,9 +390,15 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40) 📼 🆓
             * [Understanding Distributed Consensus in etcd and Kubernetes - Laura Frank, CloudBees](https://www.youtube.com/watch?v=n9VKAKwBj_0) 📼 🆓
             * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw) 📼 🆓
+            * [Internals Advanced](https://container.training) General talks about containers - 🆓 📼
           * [Kubernetes Up and Running](http://shop.oreilly.com/product/0636920043874.do#tab_04_2) 📕 💰
           * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
           * [Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) 📕 💰
+          * Exposing Services
+            * [NodePort vs LB vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) 📰 🆓
+              * Interesting to understand why ingress is a better option than LB when exposing individual services
+              * LB creates a new IP for every service, it can get expensive and difficult to handle
+              * Ingress can manage multiple domains and paths for many services without difficulty/effort
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
           * EKS - Elastic Kubernetes Service
