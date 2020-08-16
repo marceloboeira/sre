@@ -86,7 +86,6 @@ For instance, take into account the snaptshot above. If you already know how to 
     * Monitoring (See later Section)
     * Being on Call
     * Post-mortem
-
   * Software Engineering
     * Version Control
       * git
@@ -332,7 +331,6 @@ For instance, take into account the snaptshot above. If you already know how to 
               * [Thread on CFS](https://web.archive.org/web/20120205030735/http://kerneltrap.org/node/11737) 🆓 🌍
               * [The Linux Kernel Scheduler (For Beginners)](https://www.youtube.com/watch?v=5WtnnzpwEuA) 📼 🆓
               * [Operating System #21 Scheduling in Linux: O(n), O(1) Scheduler](https://www.youtube.com/watch?v=vF3KKMI3_1s) 📼 🆓
-
        * Virtual Memory
          * [The Heap: what does malloc() do?](https://www.youtube.com/watch?v=HPDBOhiKaD8) 📼 🆓
          * mmap
@@ -408,6 +406,11 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * 19:00 - Version Updates
                 * 20:00 - Authentication (IAM -> Authentication | RBAC -> Authorization)
                 * 20:00 - [AMI is OpenSource](https://github.com/awslabs/amazon-eks-ami)
+            * [Custom EKS AMIs](https://aws.amazon.com/premiumsupport/knowledge-center/eks-custom-linux-ami/) 📰 🆓
+            * Metrics
+              * [EKS + CloudWatch](https://www.youtube.com/watch?v=daLmE0tIcuk) 📼 🆓
+              * [EKS + CloudWatch: Container Insights](https://www.youtube.com/watch?v=kn5TVKzBLrU) 📼 🆓
+              * [Setup Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html) 📰 🆓
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
@@ -458,3 +461,8 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Deep dive to CPU FlameGraphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html) 📰 💻 🆓
             * [Speedscope - visualization tool](http://jamie-wong.com/post/speedscope/) 💻 🆓
             * [Presentation on FlameGraphs](https://speakerdeck.com/mrfoto/what-are-flame-graphs-and-how-to-read-them) 🎥 🆓
+  * Security
+    * Firewall
+      * WAF - Web Application Firewall
+        * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
+        * [The AWS Web Application Firewall (WAF)](https://youtu.be/SmF_wQuZ7z4) 📼 🆓
