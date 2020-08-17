@@ -389,28 +389,32 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Understanding Distributed Consensus in etcd and Kubernetes - Laura Frank, CloudBees](https://www.youtube.com/watch?v=n9VKAKwBj_0) 📼 🆓
             * [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw) 📼 🆓
             * [Internals Advanced](https://container.training) General talks about containers - 🆓 📼
-          * [Kubernetes Up and Running](http://shop.oreilly.com/product/0636920043874.do#tab_04_2) 📕 💰
-          * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
-          * [Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) 📕 💰
-          * Exposing Services
-            * [NodePort vs LB vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) 📰 🆓
-              * Interesting to understand why ingress is a better option than LB when exposing individual services
-              * LB creates a new IP for every service, it can get expensive and difficult to handle
-              * Ingress can manage multiple domains and paths for many services without difficulty/effort
+            * [Kubernetes Up and Running](http://shop.oreilly.com/product/0636920043874.do#tab_04_2) 📕 💰
+            * [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e) 📰 🆓
+            * [Programming Kubernetes](https://learning.oreilly.com/library/view/programming-kubernetes/9781492047094/) 📕 💰
+            * Networking
+              * [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) 📰 🆓
+              * [How does Traffic Flow inside a Kubernetes Cluster?](https://stackoverflow.com/questions/52241501/how-does-traffic-flow-inside-a-kubernetes-cluster) 📰 🆓
+              * Exposing Services
+                * [NodePort vs LB vs Ingress](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) 📰 🆓
+                  * Interesting to understand why ingress is a better option than LB when exposing individual services
+                  * LB creates a new IP for every service, it can get expensive and difficult to handle
+                  * Ingress can manage multiple domains and paths for many services without difficulty/effort
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
-          * EKS - Elastic Kubernetes Service
-            * [EKS - Deep Dive](https://www.youtube.com/watch?v=EDaGpxZ6Qi0) 📼 📼
-                * 08:50 - Control Plane
-                * 10:19 - Control Plane Internals (not shared tenent, endpoints exposed to internet, worker nodes need access to the internet, NLB)
-                * 19:00 - Version Updates
-                * 20:00 - Authentication (IAM -> Authentication | RBAC -> Authorization)
-                * 20:00 - [AMI is OpenSource](https://github.com/awslabs/amazon-eks-ami)
-            * [Custom EKS AMIs](https://aws.amazon.com/premiumsupport/knowledge-center/eks-custom-linux-ami/) 📰 🆓
-            * Metrics
-              * [EKS + CloudWatch](https://www.youtube.com/watch?v=daLmE0tIcuk) 📼 🆓
-              * [EKS + CloudWatch: Container Insights](https://www.youtube.com/watch?v=kn5TVKzBLrU) 📼 🆓
-              * [Setup Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html) 📰 🆓
+          * Provider
+            * EKS - Elastic Kubernetes Service
+              * [EKS - Deep Dive](https://www.youtube.com/watch?v=EDaGpxZ6Qi0) 📼 📼
+                  * 08:50 - Control Plane
+                  * 10:19 - Control Plane Internals (not shared tenent, endpoints exposed to internet, worker nodes need access to the internet, NLB)
+                  * 19:00 - Version Updates
+                  * 20:00 - Authentication (IAM -> Authentication | RBAC -> Authorization)
+                  * 20:00 - [AMI is OpenSource](https://github.com/awslabs/amazon-eks-ami)
+              * [Custom EKS AMIs](https://aws.amazon.com/premiumsupport/knowledge-center/eks-custom-linux-ami/) 📰 🆓
+              * Metrics
+                * [EKS + CloudWatch](https://www.youtube.com/watch?v=daLmE0tIcuk) 📼 🆓
+                * [EKS + CloudWatch: Container Insights](https://www.youtube.com/watch?v=kn5TVKzBLrU) 📼 🆓
+                * [Setup Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html) 📰 🆓
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
