@@ -417,6 +417,10 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [Setup Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html) 📰 🆓
               * Tracing
                 * [AWS X-Ray with EKS](https://aws.amazon.com/blogs/compute/application-tracing-on-kubernetes-with-aws-x-ray/) 📰 🆓
+              * Windows
+                * [Containerize .NET Apps with Amazon EKS](https://www.youtube.com/watch?v=GIH-MfkZPJA) 📼 🆓
+              * Managed Node Groups
+                * [EKS Managed Node Groups](https://aws.amazon.com/blogs/containers/eks-managed-node-groups/) 📰 🆓
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
@@ -440,7 +444,7 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [systemd Essentials](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) 📰 🆓
     * Debug
       * Core Dumps
-        * [Debugging with Core Dumps](https://www.youtube.com/watch?v=GV10eIuPs9k)
+        * [Debugging with Core Dumps](https://www.youtube.com/watch?v=GV10eIuPs9k) 📼 🆓
     * Performance
       * Profiling
         * Linux Performance
