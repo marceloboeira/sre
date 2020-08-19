@@ -220,6 +220,9 @@ For instance, take into account the snaptshot above. If you already know how to 
        * RDS
          * Aurora
            * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
+    * Ledger
+      * [What is a Ledger?](https://www.youtube.com/watch?v=BiEbMJ86dGQ) 📼 🆓
+      * [Amazon QLDB: An engineer's deep dive on why this is a game changer](https://www.youtube.com/watch?v=ZfYDl4kaVCo) 📼 🆓
     * Distributed Systems
       * Theory
         * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) 📰 🆓
