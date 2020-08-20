@@ -347,12 +347,24 @@ For instance, take into account the snaptshot above. If you already know how to 
     * Network
       * [Computer Networks, 5th Edition](http://www.mypearsonstore.com/bookstore/computer-networks-9780132126953?xid=PSED) 📕 💰
       * Protocols
+        * DNS
+        * Socket
+        * UDP
         * TCP
           * Build Your Own
             * [Implementing TCP in Rust (part 1)](https://www.youtube.com/watch?v=bzja9fQWzdA) 📼 🆓
             * [Implementing TCP in Rust (part 2)](https://www.youtube.com/watch?v=OCpt1I0MWXE) 📼 🆓
             * [Implementing TCP in Rust (part 3)](https://www.youtube.com/watch?v=8GE6ltLRJA4) 📼 🆓
             * [Implementing TCP in Rust (code)](https://github.com/jonhoo/rust-tcp) 🆓
+          * SSH
+          * HTTP/S
+          * SSL-TLS
+      * Edge
+        * CDN
+        * "Global Accelerator"
+          * [AWS Global Accelerator Introduction](https://www.youtube.com/watch?v=L-mmnEbiTmc) 📼 🆓
+            * 11:00 - Explanation regarding GA
+          * [AWS Global Accelerator](https://www.youtube.com/watch?v=YqcEntZ8pQ4) 📼 🆓
     * Monitoring
       * Metrics
         * Prometheus

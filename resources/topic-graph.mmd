@@ -109,12 +109,16 @@ graph TD
           SerM --> IsT[Istio]
     OPS --> NET[Networking]
       NET --> NETP[Protocols]
+        NETP --> DNS
         NETP --> Socket
         NETP --> UDP
         NETP --> TCP
           TCP --> SSH
           TCP --> HTTP
           TCP --> SSL[TLS-SSL]
+      NET --> NETE[Edge]
+        NETE --> CDN
+        NETE --> GAL[Global Accelerator]
     OPS --> MON[Monitoring]
       MON --> Metr[Metrics]
         Metr --> Prom[Prometheus]
