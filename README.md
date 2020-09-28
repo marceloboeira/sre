@@ -48,6 +48,7 @@ For instance, take into account the snaptshot above. If you already know how to 
 * 💪🏼 - Practice
 * 🐦 - Person to Follow on Twitter
 * ⭐️ - Favourite Option (when there are many alternatives)
+* 👨🏻‍🔧- Workshop
 
 ## References
 
@@ -385,6 +386,8 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
               * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
       * Orchestration
+        * ECS
+          * [ECS Workshop](https://ecsworkshop.com) 👨🏻‍🔧 🆓
         * Kubernetes
           * History
             * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
@@ -425,6 +428,7 @@ For instance, take into account the snaptshot above. If you already know how to 
                   * 19:00 - Version Updates
                   * 20:00 - Authentication (IAM -> Authentication | RBAC -> Authorization)
                   * 20:00 - [AMI is OpenSource](https://github.com/awslabs/amazon-eks-ami)
+              * [EKS Workshop](https://www.eksworkshop.com) 👨🏻‍🔧 🆓
               * [Custom EKS AMIs](https://aws.amazon.com/premiumsupport/knowledge-center/eks-custom-linux-ami/) 📰 🆓
               * Metrics
                 * [EKS + CloudWatch](https://www.youtube.com/watch?v=daLmE0tIcuk) 📼 🆓
@@ -446,6 +450,7 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
           * AppMesh
             * [AWS Container Day - App Mesh (Service Mesh Magic)](https://www.youtube.com/watch?v=hfzWtXKrv88) 🆓 📼
+            * [AppMesh Workshop](https://www.appmeshworkshop.com) 👨🏻‍🔧🆓
       * Provisioning
         * Terraform
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
@@ -453,6 +458,8 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Terraform: Up and Running](https://learning.oreilly.com/library/view/terraform-up-and/9781491977071/) 📕 💰
         * Packer
           * [The Packer Book](https://learning.oreilly.com/library/view/the-packer-book/9780988820272/) 📕 💰
+        * [CDK - CloudFormation Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+          * [Infrastructure is Code with CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU&feature=youtu.be) 📼 🆓
     * Linux
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd

@@ -100,8 +100,10 @@ graph TD
         CfgMgt --> Chef
       IaC --> Prov[Provisioning]
         Prov --> TF[Terraform]
+        Prov --> CDK[Cloud Formation Development Kit]
         Prov --> PK[Packer]
       IaC --> Orc[Orchestration]
+        Orc --> ECS[Elastic Container Service]
         Orc --> K8S[Kubernetes]
         Orc --> Mesos
         Orc --> Nomad
