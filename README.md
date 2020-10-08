@@ -221,6 +221,9 @@ For instance, take into account the snaptshot above. If you already know how to 
        * RDS
          * Aurora
            * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
+           * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
+         * [Security](https://aws.amazon.com/rds/features/security/)
+           * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
     * Ledger
       * [What is a Ledger?](https://www.youtube.com/watch?v=BiEbMJ86dGQ) 📼 🆓
       * [Amazon QLDB: An engineer's deep dive on why this is a game changer](https://www.youtube.com/watch?v=ZfYDl4kaVCo) 📼 🆓
@@ -499,3 +502,8 @@ For instance, take into account the snaptshot above. If you already know how to 
       * WAF - Web Application Firewall
         * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
         * [The AWS Web Application Firewall (WAF)](https://youtu.be/SmF_wQuZ7z4) 📼 🆓
+    * Encryption
+      * Cloud
+        * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
+        * [KMS](https://aws.amazon.com/kms/)
+          * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
