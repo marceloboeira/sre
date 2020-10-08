@@ -235,6 +235,11 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
         * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
         * [Distributed Systems Training](https://github.com/pingcap/talent-plan) 📰 🆓
+      * Bulkhead Pattern
+        * [Bulkhead Pattern - Origin & Concept](https://www.youtube.com/watch?v=Kh3HxWk8YF4) 📼 🆓
+        * [Bulkhead Pattern - Examples](https://www.youtube.com/watch?v=R2FT5edyKOg) 📼 🆓
+      * Circuit-Breaker Pattern
+        * [Circuit Breaker Pattern - Fault Toleranc Services](https://www.youtube.com/watch?v=ADHcBxEXvFA) 📼 🆓
       * Event Sourcing / CQRS
         * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
         * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
@@ -507,3 +512,8 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
         * [KMS](https://aws.amazon.com/kms/)
           * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
+  * Cost
+    * Cloud
+      * AWS
+        * [Savings Plans vs Reserved Instances](https://www.youtube.com/watch?v=c_zlPQimrvY) 📼 🆓
+        * [How to save with AWS Saving Plans](https://www.youtube.com/watch?v=uQ9ry-9uUvo) 📼 🆓
