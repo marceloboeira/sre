@@ -512,6 +512,9 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
         * [KMS](https://aws.amazon.com/kms/)
           * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
+    * Monitoring
+      * Data Leaks
+        * [Amazon Macie](https://www.youtube.com/watch?v=8piwEQJJXdo) 📼 🆓
   * Cost
     * Cloud
       * AWS
