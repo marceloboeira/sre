@@ -375,10 +375,17 @@ For instance, take into account the snaptshot above. If you already know how to 
             * 11:00 - Explanation regarding GA
           * [AWS Global Accelerator](https://www.youtube.com/watch?v=YqcEntZ8pQ4) 📼 🆓
        * VPC - Virtual private Cloud
+         * [Practical VPC Design](https://aws.amazon.com/blogs/startups/practical-vpc-design/) 📰 🆓
          * Multi-VPC
-           * [Multi-VPC Architectures Comparison](https://aws.amazon.com/blogs/architecture/using-vpc-sharing-for-a-cost-effective-multi-account-microservice-architecture/)
+           * [One to Many: Evolving VPC Design](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design) 📰 🆓 
+           * [Using VPC Sharing for a Cost-Effective Multi-Account Microservice Architecture](https://aws.amazon.com/blogs/architecture/using-vpc-sharing-for-a-cost-effective-multi-account-microservice-architecture/) 📰 🆓
+           * Sharing
+             * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/) 📰 🆓
            * Peering
            * PrivateLink
+           * TransitGateway
+             * [Use an AWS Transit Gateway to Simplify Your Network Architecture](https://aws.amazon.com/blogs/aws/new-use-an-aws-transit-gateway-to-simplify-your-network-architecture/) 📰 🆓
+             * [Creating a single internet exit point from multiple VPCs Using AWS Transit Gateway](https://aws.amazon.com/blogs/networking-and-content-delivery/creating-a-single-internet-exit-point-from-multiple-vpcs-using-aws-transit-gateway/) 📰 🆓
     * Monitoring
       * Metrics
         * Prometheus
@@ -513,10 +520,16 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
         * [The AWS Web Application Firewall (WAF)](https://youtu.be/SmF_wQuZ7z4) 📼 🆓
     * Encryption
+      * Theory
+        * History
+          * Ceasar
+        * Symetric
+        * Asymetric
       * Cloud
         * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
         * [KMS](https://aws.amazon.com/kms/)
           * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
+
     * Monitoring
       * Data Leaks
         * [Amazon Macie](https://www.youtube.com/watch?v=8piwEQJJXdo) 📼 🆓

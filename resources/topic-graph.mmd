@@ -127,6 +127,7 @@ graph TD
         VPC --> MVPC[Multi-VPC]
           MVPC --> VPCP[Peering]
           MVPC --> VPCPL[PrivateLink]
+          MVPC --> VPCT[Transit Gateway]
     OPS --> MON[Monitoring]
       MON --> Metr[Metrics]
         Metr --> Prom[Prometheus]
