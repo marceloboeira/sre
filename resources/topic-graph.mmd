@@ -123,6 +123,10 @@ graph TD
       NET --> NETE[Edge]
         NETE --> CDN
         NETE --> GAL[Global Accelerator]
+      NET --> VPC[VPC Virtual Private Cloud]
+        VPC --> MVPC[Multi-VPC]
+          MVPC --> VPCP[Peering]
+          MVPC --> VPCPL[PrivateLink]
     OPS --> MON[Monitoring]
       MON --> Metr[Metrics]
         Metr --> Prom[Prometheus]

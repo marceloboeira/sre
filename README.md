@@ -374,6 +374,11 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [AWS Global Accelerator Introduction](https://www.youtube.com/watch?v=L-mmnEbiTmc) 📼 🆓
             * 11:00 - Explanation regarding GA
           * [AWS Global Accelerator](https://www.youtube.com/watch?v=YqcEntZ8pQ4) 📼 🆓
+       * VPC - Virtual private Cloud
+         * Multi-VPC
+           * [Multi-VPC Architectures Comparison](https://aws.amazon.com/blogs/architecture/using-vpc-sharing-for-a-cost-effective-multi-account-microservice-architecture/)
+           * Peering
+           * PrivateLink
     * Monitoring
       * Metrics
         * Prometheus
