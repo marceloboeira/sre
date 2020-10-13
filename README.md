@@ -377,7 +377,7 @@ For instance, take into account the snaptshot above. If you already know how to 
        * VPC - Virtual private Cloud
          * [Practical VPC Design](https://aws.amazon.com/blogs/startups/practical-vpc-design/) 📰 🆓
          * Multi-VPC
-           * [One to Many: Evolving VPC Design](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design) 📰 🆓 
+           * [One to Many: Evolving VPC Design](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design) 📰 🆓
            * [Using VPC Sharing for a Cost-Effective Multi-Account Microservice Architecture](https://aws.amazon.com/blogs/architecture/using-vpc-sharing-for-a-cost-effective-multi-account-microservice-architecture/) 📰 🆓
            * Sharing
              * [VPC sharing: A new approach to multiple accounts and VPC management](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-accounts-and-vpc-management/) 📰 🆓
@@ -514,6 +514,16 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Deep dive to CPU FlameGraphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html) 📰 💻 🆓
             * [Speedscope - visualization tool](http://jamie-wong.com/post/speedscope/) 💻 🆓
             * [Presentation on FlameGraphs](https://speakerdeck.com/mrfoto/what-are-flame-graphs-and-how-to-read-them) 🎥 🆓
+  * Serverless
+    * [SAM](https://aws.amazon.com/serverless/sam/)- Serverless Application Model
+      * [What is SAM?](https://youtu.be/1dzihtC5LJ0) 📼 🆓
+    * Lambda
+      * Layers
+        * [What are Lambda Layers?](https://www.youtube.com/watch?v=ebhcs-9FYJA) 📰 🆓
+      * Extensions
+        * [Intro to Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) 📰 🆓
+        * [Building Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/building-extensions-for-aws-lambda-in-preview/) 📰 🆓
+        * [Building Extension API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html) 📰 🆓
   * Security
     * Firewall
       * WAF - Web Application Firewall
