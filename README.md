@@ -228,10 +228,13 @@ For instance, take into account the snaptshot above. If you already know how to 
           * ElasticSearch
             * Internals
               * [ElasticSearch from the Bottom Up](https://www.youtube.com/watch?v=PpX7J-G2PEo) 📼 🆓
-                * ElasticSearch Cluster
-                  * Composed of many nodes
-                  * Indexes are cross-node Through Shards
-                * Lucene
+              * [ElasticSearch from the Bottom Up](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up) 📼 🆓
+                  * [Index && Shard](https://www.youtube.com/watch?v=YsYUgZu9-Y4) 📼 🆓
+                    * [How many shards are too many shards?](https://www.youtube.com/watch?v=uryHucNEZXk) 📼 🆓
+                      * [Shard performance patterns](https://www.youtube.com/watch?v=aG6WPu08qBs) 📼 🆓
+                  * Lucene
+            * [Elasticsearch Do's, Don'ts and Pro-Tips](https://www.youtube.com/watch?v=c9O5_a50aOQ) 📼 🆓
+            * [Our Journey with Elasticsearch: Indexing 200M Daily Records](https://www.youtube.com/watch?v=nqUB0erNlec) 📼 🆓
     * Ledger
       * [What is a Ledger?](https://www.youtube.com/watch?v=BiEbMJ86dGQ) 📼 🆓
       * [Amazon QLDB: An engineer's deep dive on why this is a game changer](https://www.youtube.com/watch?v=ZfYDl4kaVCo) 📼 🆓
