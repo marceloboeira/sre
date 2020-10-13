@@ -209,21 +209,29 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f) 📰 🆓
           * [How We Replaced Our Data Pipeline With Zero Downtime](https://www.twilio.com/engineering/2014/06/26/how-we-replaced-our-data-pipeline-with-zero-downtime) 📰 🆓
           * [Vitess: MySQL Sharding - Square Engineering](https://www.youtube.com/watch?v=q65TleTn2vg) 📼 🆓
-        * Cassandra
-          * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
-          * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
-      * NoSQL
-        * KeyValue
-          * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
-          * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
-          * Redis
-            * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
        * RDS
          * Aurora
            * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
            * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
          * [Security](https://aws.amazon.com/rds/features/security/)
            * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
+      * NoSQL
+        * KeyValue
+          * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
+          * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
+          * Redis
+            * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
+          * Cassandra
+            * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
+            * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
+        * DocumentStore
+          * ElasticSearch
+            * Internals
+              * [ElasticSearch from the Bottom Up](https://www.youtube.com/watch?v=PpX7J-G2PEo) 📼 🆓
+                * ElasticSearch Cluster
+                  * Composed of many nodes
+                  * Indexes are cross-node Through Shards
+                * Lucene
     * Ledger
       * [What is a Ledger?](https://www.youtube.com/watch?v=BiEbMJ86dGQ) 📼 🆓
       * [Amazon QLDB: An engineer's deep dive on why this is a game changer](https://www.youtube.com/watch?v=ZfYDl4kaVCo) 📼 🆓
