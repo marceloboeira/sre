@@ -215,6 +215,8 @@ For instance, take into account the snaptshot above. If you already know how to 
            * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
          * [Security](https://aws.amazon.com/rds/features/security/)
            * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
+         * Aurora Serverless
+           * [How to Build Highly Scalable Serverless Applications with Amazon Aurora Serverless](https://www.youtube.com/watch?v=I0uHo4xAIxg) 📼 🆓
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
@@ -482,6 +484,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * AppMesh
             * [AWS Container Day - App Mesh (Service Mesh Magic)](https://www.youtube.com/watch?v=hfzWtXKrv88) 🆓 📼
             * [AppMesh Workshop](https://www.appmeshworkshop.com) 👨🏻‍🔧🆓
+            * [Microservice Deployment Strategies with AWS App Mesh](https://www.youtube.com/watch?v=UATTjvjoYEE) 🆓 📼
       * Provisioning
         * Terraform
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
@@ -554,6 +557,9 @@ For instance, take into account the snaptshot above. If you already know how to 
     * Monitoring
       * Data Leaks
         * [Amazon Macie](https://www.youtube.com/watch?v=8piwEQJJXdo) 📼 🆓
+    * Multi-tenancy
+      * SaaS
+        * [AWS re:Invent 2019: SaaS tenant isolation patterns](https://www.youtube.com/watch?v=fuDZq-EspNA)
   * Cost
     * Cloud
       * AWS
