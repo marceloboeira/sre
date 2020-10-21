@@ -73,6 +73,7 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Observability of Distributed Systems](https://www.youtube.com/watch?v=SoZZzB-yTOk) 📼 🆓
         * [Incident Management](https://www.youtube.com/watch?v=n4y9dwinPBQ) 📼 🆓
         * [Postmortems and Retrospectives](https://www.youtube.com/watch?v=UBe7U2b3tsA) 📼 🆓
+      * [IBM Garage - Building SRE from Scratch](https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd)
     * Use cases
       * [Site Reliability Engineering - Google - Christof Leng](https://www.youtube.com/watch?v=d2wn_E1jxn4&) 📼 🆓
       * [Implementing SLOs for a New Service - Squarespace](https://www.youtube.com/watch?v=ffbGyHPWwZM) 📼 🆓
@@ -215,8 +216,12 @@ For instance, take into account the snaptshot above. If you already know how to 
            * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
          * [Security](https://aws.amazon.com/rds/features/security/)
            * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
+         * RDS Proxy
+           * [Using Relational Databases with AWS Lambda - Easy Connection Pooling](https://www.youtube.com/watch?v=dgj9cvqgYYs) 📼 🆓
          * Aurora Serverless
            * [How to Build Highly Scalable Serverless Applications with Amazon Aurora Serverless](https://www.youtube.com/watch?v=I0uHo4xAIxg) 📼 🆓
+           * Data API
+             * [Getting Started with Aurora Serverless Data API](https://www.youtube.com/watch?v=b_BzV1G1iRs) 📼 🆓
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
