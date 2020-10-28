@@ -426,6 +426,8 @@ For instance, take into account the snaptshot above. If you already know how to 
       * Orchestration
         * ECS
           * [ECS Workshop](https://ecsworkshop.com) 👨🏻‍🔧 🆓
+          * Internals
+            * [Service Discovery](https://www.youtube.com/watch?v=WLD7wqJzKEw) 🆓 📼
         * Kubernetes
           * History
             * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
