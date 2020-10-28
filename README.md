@@ -427,7 +427,8 @@ For instance, take into account the snaptshot above. If you already know how to 
         * ECS
           * [ECS Workshop](https://ecsworkshop.com) 👨🏻‍🔧 🆓
           * Internals
-            * [Service Discovery](https://www.youtube.com/watch?v=WLD7wqJzKEw) 🆓 📼
+            * [Service Discovery](https://www.youtube.com/watch?v=WLD7wqJzKEw) 📼 🆓
+            * [Network Deep Dive](https://www.youtube.com/watch?v=2fwCg82pMI4) 📼 🆓
         * Kubernetes
           * History
             * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
@@ -546,6 +547,9 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Building Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/building-extensions-for-aws-lambda-in-preview/) 📰 🆓
         * [Building Extension API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html) 📰 🆓
   * Security
+    * Authentication
+      * OpenID/OICD
+        * [Amazon Cognito](https://www.youtube.com/watch?v=OAR4ZHP8DEg) 📼 🆓
     * Firewall
       * WAF - Web Application Firewall
         * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
