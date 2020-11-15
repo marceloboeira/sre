@@ -459,6 +459,8 @@ For instance, take into account the snaptshot above. If you already know how to 
                   * Interesting to understand why ingress is a better option than LB when exposing individual services
                   * LB creates a new IP for every service, it can get expensive and difficult to handle
                   * Ingress can manage multiple domains and paths for many services without difficulty/effort
+              * CNI Plugins
+                * [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/)
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
           * Provider
