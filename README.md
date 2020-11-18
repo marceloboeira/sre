@@ -258,12 +258,14 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Bulkhead Pattern - Examples](https://www.youtube.com/watch?v=R2FT5edyKOg) 📼 🆓
       * Circuit-Breaker Pattern
         * [Circuit Breaker Pattern - Fault Toleranc Services](https://www.youtube.com/watch?v=ADHcBxEXvFA) 📼 🆓
-      * Event Sourcing / CQRS
-        * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
-        * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
-        * [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0) 📼 🆓
-        * [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0) 📼 🆓
-        * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
+      * Event-Driven Architecture
+        * [Practical Event Driven Architecture](https://www.youtube.com/watch?v=X5PZ9TwDjI8) 📼 🆓
+        * Event Sourcing / CQRS
+          * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
+          * [Event Sourcing You are doing it wrong - David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk) 📼 🆓
+          * [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0) 📼 🆓
+          * [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0) 📼 🆓
+          * [Go Back to the Future with Event Sourcing and CQRS](https://www.youtube.com/watch?v=iGt0DBOWDTs) 📼 🆓
       * Streaming
         * [Kafka](https://kafka.apache.org)
           * [Introduction to Kafka](https://www.youtube.com/watch?v=UEg40Te8pnE) 📼 🆓
@@ -483,6 +485,11 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [Containerize .NET Apps with Amazon EKS](https://www.youtube.com/watch?v=GIH-MfkZPJA) 📼 🆓
               * Managed Node Groups
                 * [EKS Managed Node Groups](https://aws.amazon.com/blogs/containers/eks-managed-node-groups/) 📰 🆓
+           * Tenancy
+             * [EKS Multi Tenency Design Considerations](https://aws.amazon.com/blogs/containers/multi-tenant-design-considerations-for-amazon-eks-clusters/) 📰 🆓
+             * [Cost Management for MultiTenant Kubernetes](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/) 📰 🆓
+             * [EKS - Tenancy Best Practices](https://aws.github.io/aws-eks-best-practices/security/docs/multitenancy/) 📰 🆓
+             * [Loft - Kubernetes MultiTenancy](https://loft.sh/features/kubernetes-multi-tenancy)
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
