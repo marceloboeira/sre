@@ -406,6 +406,8 @@ For instance, take into account the snaptshot above. If you already know how to 
            * TransitGateway
              * [Use an AWS Transit Gateway to Simplify Your Network Architecture](https://aws.amazon.com/blogs/aws/new-use-an-aws-transit-gateway-to-simplify-your-network-architecture/) 📰 🆓
              * [Creating a single internet exit point from multiple VPCs Using AWS Transit Gateway](https://aws.amazon.com/blogs/networking-and-content-delivery/creating-a-single-internet-exit-point-from-multiple-vpcs-using-aws-transit-gateway/) 📰 🆓
+           * VPN
+             * [Site to Site VPN](https://www.youtube.com/watch?v=qmKkbuS9gRs) 📼 🆓
     * Monitoring
       * Metrics
         * Prometheus
@@ -587,3 +589,5 @@ For instance, take into account the snaptshot above. If you already know how to 
       * AWS
         * [Savings Plans vs Reserved Instances](https://www.youtube.com/watch?v=c_zlPQimrvY) 📼 🆓
         * [How to save with AWS Saving Plans](https://www.youtube.com/watch?v=uQ9ry-9uUvo) 📼 🆓
+        * Network
+          * [Basic Networking](https://www.youtube.com/watch?v=hiKPPy584Mg)
