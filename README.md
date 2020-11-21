@@ -281,6 +281,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Practical NATS: From Beginner to Pro](https://www.amazon.com/Practical-NATS-Beginner-Waldemar-Quevedo/dp/148423569X) 📕 💰
         * Kinesis
           * ["Distributed Commit Log: Application Techniques for Transaction Processing" by David McNeil](https://www.youtube.com/watch?v=X2g0FFOV2e0) 📼 🆓
+            * [Amazon Kinesis Data Streams: Auto-scaling the number of shards](https://medium.com/slalom-data-analytics/amazon-kinesis-data-streams-auto-scaling-the-number-of-shards-105dc967bed5) 📰 🆓
         * Commit Log
           * [Commit Logs in an Age of Microservices - Tim Berglund](https://www.youtube.com/watch?v=bbotWkCLuF0) 📼 🆓
           * Build your Own
