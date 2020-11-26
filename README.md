@@ -466,6 +466,9 @@ For instance, take into account the snaptshot above. If you already know how to 
                   * Ingress can manage multiple domains and paths for many services without difficulty/effort
               * CNI Plugins
                 * [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/)
+              * Identity & Access
+                * RBAC
+                  * [RBAC.dev - List of Resources](https://github.com/mhausenblas/rbac.dev) 🌍 🆓
           * Operators
             * [Introducing Operators](https://coreos.com/blog/introducing-operators.html) 📰 🆓
           * Provider
@@ -493,6 +496,7 @@ For instance, take into account the snaptshot above. If you already know how to 
              * [Cost Management for MultiTenant Kubernetes](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/) 📰 🆓
              * [EKS - Tenancy Best Practices](https://aws.github.io/aws-eks-best-practices/security/docs/multitenancy/) 📰 🆓
              * [Loft - Kubernetes MultiTenancy](https://loft.sh/features/kubernetes-multi-tenancy)
+             * [Architecting multi-tenant PaaS offerings with Amazon EKS](https://www.youtube.com/watch?v=P29eL_51iYU) 📼 🆓
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Istio
