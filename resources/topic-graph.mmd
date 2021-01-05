@@ -60,6 +60,9 @@ graph TD
       RPC --> AVRO
       RPC --> Protobufs
       RPC --> Thrift
+    DSi --> SDi[Service Discovery]
+      SDi --> SDiSS[Server Side]
+      SDi --> SDiCS[Client Side]
 
   SRE --> OPS[Operations]
     OPS --> OS[Operating Systems]

@@ -229,6 +229,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Redis
             * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
           * Cassandra
+            * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
             * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
         * DocumentStore
@@ -253,6 +254,9 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Designing Distributed Systems](https://learning.oreilly.com/library/view/designing-distributed-systems/9781491983638/) 📕 💰
         * [Distributed Denial of Service (DDoS)](https://learning.oreilly.com/library/view/distributed-denial-of/9781492026181/) 📕 💰
         * [Distributed Systems Training](https://github.com/pingcap/talent-plan) 📰 🆓
+      * Service Discovery
+        * [AWS CloudMap](https://youtu.be/fMGd9IUaotE)
+        * [Airbnb - SmartStack](https://medium.com/airbnb-engineering/smartstack-service-discovery-in-the-cloud-4b8a080de619)
       * Bulkhead Pattern
         * [Bulkhead Pattern - Origin & Concept](https://www.youtube.com/watch?v=Kh3HxWk8YF4) 📼 🆓
         * [Bulkhead Pattern - Examples](https://www.youtube.com/watch?v=R2FT5edyKOg) 📼 🆓
