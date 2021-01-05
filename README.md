@@ -232,6 +232,8 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
             * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
+            * Amazon Keyspaces
+              * [Running Apache Cassandra Workloads by Using Amazon Keyspaces](https://www.youtube.com/watch?v=zehVQzlSuEU) 🆓 📼
         * DocumentStore
           * ElasticSearch
             * Internals
