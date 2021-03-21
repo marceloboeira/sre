@@ -214,6 +214,7 @@ For instance, take into account the snaptshot above. If you already know how to 
          * Aurora
            * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
            * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
+           * [Aurora Global Database](https://www.youtube.com/watch?v=1vFg1z-2E7Y) 📼 🆓
          * [Security](https://aws.amazon.com/rds/features/security/)
            * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
          * RDS Proxy
@@ -222,6 +223,8 @@ For instance, take into account the snaptshot above. If you already know how to 
            * [How to Build Highly Scalable Serverless Applications with Amazon Aurora Serverless](https://www.youtube.com/watch?v=I0uHo4xAIxg) 📼 🆓
            * Data API
              * [Getting Started with Aurora Serverless Data API](https://www.youtube.com/watch?v=b_BzV1G1iRs) 📼 🆓
+         * Cross-region Replication
+           * [Best practices for Amazon RDS for PostgreSQL cross-Region read replicas](https://aws.amazon.com/blogs/database/best-practices-for-amazon-rds-for-postgresql-cross-region-read-replicas/) 📰 🆓
       * NoSQL
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
