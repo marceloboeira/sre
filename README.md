@@ -216,6 +216,11 @@ For instance, take into account the snaptshot above. If you already know how to 
              * [Amazon Aurora Multi-Master: Scaling out database write performance (MySQL)](https://www.youtube.com/watch?v=p0C0jakzYuc) 📼 🆓
              * [Aurora Encryption Performance Numbers](https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/) 📰 🆓
              * [Aurora Global Database](https://www.youtube.com/watch?v=1vFg1z-2E7Y) 📼 🆓
+             * Performance Tunning
+               * [Part 1 - Memory and Query Plan Management](https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-1-memory-and-query-plan-management/) 📰 🆓
+               * [Part 2 - Replications Security and Logging](https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-2-replication-security-and-logging/) 📰 🆓
+               * [Part 3 - Optimizer Params](https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-3-optimizer-parameters/) 📰 🆓
+               * [Part 4 - ANSI Compatibility Options](https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-4-ansi-compatibility-options/) 📰 🆓
            * [Security](https://aws.amazon.com/rds/features/security/)
              * [Encryptin an exsting RDS PgSQL](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html) 📰 🆓
            * RDS Proxy
