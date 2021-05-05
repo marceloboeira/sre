@@ -487,6 +487,7 @@ For instance, take into account the snaptshot above. If you already know how to 
                   * Ingress can manage multiple domains and paths for many services without difficulty/effort
               * CNI Plugins
                 * [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/)
+                * [Deep dive on the AWS CNI Plug-in for Kubernetes](https://www.youtube.com/watch?v=ezcnPcRcJdc) 📼 🆓
               * Identity & Access
                 * RBAC
                   * [RBAC.dev - List of Resources](https://github.com/mhausenblas/rbac.dev) 🌍 🆓
