@@ -344,6 +344,10 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=dp_ob_title_bk) 📕 💰
         * [Operating System Concepts: Essentials](https://www.amazon.com/Operating-Concepts-Essentials-Abraham-Silberschatz/dp/1118804929/ref=sr_1_1?s=books&ie=UTF8&qid=1415311059&sr=1-1&keywords=operating+system+concepts+essentials) 📕 💰
         * [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-4th-Edition/dp/013359162X/ref=dp_ob_title_bk) 📕 💰
+      * Unix
+        * [eBPF](https://ebpf.io)
+          * [A Beginner's Guide to eBPF Programming - Liz Rice](https://www.youtube.com/watch?v=lrSExTfS-iQ) 📼 🆓
+          * [Rethinking the Linux Kernel](https://www.youtube.com/watch?v=f-oTe-dmfyI)
       * Computer Architecture
         * [TUHS Lectures](https://minnie.tuhs.org/CompArch/Lectures/) 🆓 📰 🎓
           * [Introduction to Systems Architecture](https://minnie.tuhs.org/CompArch/Lectures/week01.html)
