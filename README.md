@@ -415,7 +415,9 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Implementing TCP in Rust (code)](https://github.com/jonhoo/rust-tcp) 🆓
           * SSH
           * HTTP/S
-          * SSL-TLS
+            * Certificate Authorization
+            * SSL-TLS
+              * [How TLS (1.2) Handshake work - Computerfile](https://www.youtube.com/watch?v=86cQJ0MMses) 📼🆓
       * Edge
         * CDN
         * "Global Accelerator"
