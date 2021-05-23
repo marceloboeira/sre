@@ -549,6 +549,8 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [CDK - CloudFormation Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
           * [Infrastructure is Code with CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU&feature=youtu.be) 📼 🆓
           * [CDK Best Practices](https://github.com/kevinslin/open-cdk) 💻 🆓 📰
+      * Usecases
+        * [Kubernetes Platform @ Pinterest](https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948) 📰 🆓
     * Linux
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd

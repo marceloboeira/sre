@@ -150,11 +150,6 @@ https://github.com/ardanlabs/gotraining
 https://hello-rust.show/5/
 https://hello-rust.show/9/
 
----- Kubernetes
-
-https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948
-
-
 
 Elevator Systems
 https://www.youtube.com/watch?v=BCN9mQOT3RQ
@@ -188,3 +183,10 @@ https://www.youtube.com/watch?v=tvyAx-JI7sM
 
 Interviewing
 https://thinksoftware.medium.com/elevator-system-design-a-tricky-technical-interview-question-116f396f2b1c
+https://github.com/alex/what-happens-when
+
+Distributed Transactions
+https://www.youtube.com/watch?v=S4FnmSeRpAY
+
+Distributed Locks
+https://www.youtube.com/watch?v=v7x75aN9liM
