@@ -32,6 +32,7 @@ https://www.amazon.de/Designing-Data-Intensive-Applications-Reliable-Maintainabl
 Consul
 Etcd
 Redis with WAL?
+https://www.youtube.com/watch?v=DUbEgNw-F9c
 
 # Performance?
 Zero Copy
@@ -167,6 +168,10 @@ https://www.youtube.com/watch?v=o_AIw9bGogo
 
 Transaction Theory
 http://faculty.juniata.edu/rhodes/dbms/transproc.htm
+SQL/Database Specific
+https://www.youtube.com/watch?v=HQ2mcEssJ7Y
+https://www.youtube.com/watch?v=xYysvuDAX70
+
 
 Redis Transactions
 

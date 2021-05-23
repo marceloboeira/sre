@@ -108,10 +108,6 @@ graph TD
         CfgMgt --> Puppet
         CfgMgt --> Ansible
         CfgMgt --> Chef
-      IaC --> Prov[Provisioning]
-        Prov --> TF[Terraform]
-        Prov --> CDK[Cloud Formation Development Kit]
-        Prov --> PK[Packer]
       IaC --> Orc[Orchestration]
         Orc --> ECS[Elastic Container Service]
         Orc --> K8S[Kubernetes]
@@ -119,6 +115,15 @@ graph TD
         Orc --> Nomad
         Orc --> SerM[ServiceMesh]
           SerM --> IsT[Istio]
+      IaC --> Prov[Provisioning]
+        Prov --> TF[Terraform]
+        Prov --> CDK[Cloud Formation Development Kit]
+        Prov --> PK[Packer]
+      IaC --> SecM[Secret Management]
+        SecM --> Vlt[Vaul]
+      IaC --> SessM[Session Management]
+        SessM --> Bdry[Boundary]
+
     OPS --> NET[Networking]
       NET --> NETP[Protocols]
         NETP --> DNS
