@@ -417,7 +417,9 @@ For instance, take into account the snaptshot above. If you already know how to 
           * HTTP/S
             * Certificate Authorization
             * SSL-TLS
-              * [How TLS (1.2) Handshake work - Computerfile](https://www.youtube.com/watch?v=86cQJ0MMses) 📼🆓
+              * [How TLS (1.2) Handshake work - Computerfile](https://www.youtube.com/watch?v=86cQJ0MMses) 📼 🆓
+          * MQTT
+            * [Intro to Message Queue Telemetry Transport](https://www.youtube.com/watch?v=eS4nx6tLSLs) 📼 🆓
       * Edge
         * CDN
         * "Global Accelerator"

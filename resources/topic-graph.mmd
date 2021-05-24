@@ -123,7 +123,6 @@ graph TD
         SecM --> Vlt[Vaul]
       IaC --> SessM[Session Management]
         SessM --> Bdry[Boundary]
-
     OPS --> NET[Networking]
       NET --> NETP[Protocols]
         NETP --> DNS
@@ -133,6 +132,8 @@ graph TD
           TCP --> SSH
           TCP --> HTTP
           TCP --> SSL[TLS-SSL]
+            SSL --> mTLS[mTLS]
+          TCP --> MQTT[MQTT]
       NET --> NETE[Edge]
         NETE --> CDN
         NETE --> GAL[Global Accelerator]
