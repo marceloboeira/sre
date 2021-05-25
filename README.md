@@ -531,6 +531,11 @@ For instance, take into account the snaptshot above. If you already know how to 
              * [Architecting multi-tenant PaaS offerings with Amazon EKS](https://www.youtube.com/watch?v=P29eL_51iYU) 📼 🆓
             * Usecases
               * [Kubernetes Platform @ Pinterest](https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948) 📰 🆓
+            * Failure Stories
+              * heycar outage:
+                * [kube-dns : Intermittent dns issue from pods to external server](https://github.com/kubernetes/kubernetes/issues/47142) 😅
+                * [5-15s DNS lookups on Kubernetes?](https://blog.quentin-machu.fr/2018/06/24/5-15s-dns-lookups-on-kubernetes/) 😅
+                * [Kubernetes pods /etc/resolv.conf ndots:5 option and why it may negatively affect your application performances](https://pracucci.com/kubernetes-dns-resolution-ndots-options-and-why-it-may-affect-application-performances.html) 😅
         * Service Mesh
           * [What is service mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk) 📼 🆓
           * Consul
@@ -561,7 +566,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Introduction to Vault](https://www.youtube.com/watch?v=VYfl-DpZ5wM) 📼 🆓
       * Session Management
         * [Boundary](https://www.boundaryproject.io) - Secure access to hosts and services
-          * [Introduction to Boundary](https://www.youtube.com/watch?v=eRZuaw0AW0I) 📼 🆓 
+          * [Introduction to Boundary](https://www.youtube.com/watch?v=eRZuaw0AW0I) 📼 🆓
     * Linux
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd
