@@ -141,6 +141,10 @@ For instance, take into account the snaptshot above. If you already know how to 
         * Go
           * Concurrency
             * [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/) 📕 💰
+            * [Concurrency Patterns in Go](https://www.youtube.com/watch?v=YEKjSzIwAdA 📼 🆓) 
+              * Channels
+                * [How do channels work? - Kavya Joshi - GopherCon 2017](https://www.youtube.com/watch?v=KBZlN0izeiY) 📼🆓⭐️
+                * [Practical Channel Work](https://www.youtube.com/watch?v=S11VFAMEs6E) 📼 🆓
           * Garbage Collector
             * [Golang's Realtime GC in Theory and Practice](https://www.youtube.com/watch?v=bMujSVMarqY) 📼 🆓
             * [Garbage Colletor Handbook](https://learning.oreilly.com/library/view/the-garbage-collection/9781315388007/) 📕 💰
@@ -573,6 +577,8 @@ For instance, take into account the snaptshot above. If you already know how to 
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd
         * [systemd Essentials](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) 📰 🆓
+      * File System
+        * [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw) 📼 🆓
     * Debug
       * Core Dumps
         * [Debugging with Core Dumps](https://www.youtube.com/watch?v=GV10eIuPs9k) 📼 🆓

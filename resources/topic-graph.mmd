@@ -10,6 +10,10 @@ graph TD
     PL --> SysPL[Systems Programming Languages]
       SysPL --> Rust
       SysPL --> Go
+        Go --> GoRoutines
+        Go --> Channels
+        Go --> Select
+        Go --> GC
     PL --> ScrPL[Script Programming Languages]
       ScrPL --> Ruby
       ScrPL --> Python
