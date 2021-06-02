@@ -154,6 +154,8 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [Coursera - Algorithms - Part 1 - Elementary data structures, sorting, and searching algorithms](https://www.coursera.org/learn/algorithms-part1) 🆓 🎓 📼
         * [Coursera - Algorithms - Part 2 - Graph and string-processing algorithms](https://www.coursera.org/learn/algorithms-part2) 🆓 🎓 📼
         * [Courated List of the 10 best free resources](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 📰 🆓
+         * Locks
+           * [Let's talk locks! - Kavya Joshi](https://www.youtube.com/watch?v=tjpncm3xTTc) 📼 🆓
          * Alternative Data Structures
            * [“Esoteric Data Structures and Where to Find Them” - Allan Deutsch](https://www.youtube.com/watch?v=-8UZhDjgeZU) 📼 🆓
                 * 0:36 Slot map
