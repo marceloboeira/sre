@@ -193,3 +193,10 @@ https://www.youtube.com/watch?v=S4FnmSeRpAY
 
 Distributed Locks
 https://www.youtube.com/watch?v=v7x75aN9liM
+
+
+Interesting questions:
+
+What is the maximum number of TCP connections one machine/container/application can hold?
+What is the limitation on goroutines?
+How goroutines work on multicore?
