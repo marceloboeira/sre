@@ -200,3 +200,12 @@ Interesting questions:
 What is the maximum number of TCP connections one machine/container/application can hold?
 What is the limitation on goroutines?
 How goroutines work on multicore?
+
+https://www.youtube.com/watch?v=afSiVelXDTQ
+https://misfra.me/optimizing-concurrent-map-access-in-go/
+https://andregarzia.com/2021/04/writing-a-technical-book.html
+https://www.foundationdb.org/files/fdb-paper.pdf
+https://worthdoingbadly.com/macappsios/
+https://nathanpeck.com/speeding-up-amazon-ecs-container-deployments/
+https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/
+
