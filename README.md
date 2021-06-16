@@ -473,6 +473,10 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Internals
             * [Service Discovery](https://www.youtube.com/watch?v=WLD7wqJzKEw) 📼 🆓
             * [Network Deep Dive](https://www.youtube.com/watch?v=2fwCg82pMI4) 📼 🆓
+        * Nomad
+          * [Intro to Nomad](https://www.youtube.com/watch?v=s_Fm9UtL4YU) 📼 🆓
+          * [How does nomad work?](https://www.youtube.com/watch?v=UkXeRbzrWqo) 📼 🆓
+          * [Nomad vs K8s](https://www.youtube.com/watch?v=GkmyNBUugg8) 📼 🆓
         * Kubernetes
           * History
             * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
@@ -554,7 +558,6 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Istio
             * [Istio Explained - IBM Videos](https://www.youtube.com/watch?v=6zDrLvpfCK4) 📼 🆓
             * [What is Istio? ](https://www.youtube.com/watch?v=1iyFq2VaL5Y) 📼 🆓
-              * Nomad
               * Console
             * [Istio: Up & Running](https://learning.oreilly.com/library/view/istio-up-and/9781492043775/) 📕 💰
           * AppMesh
