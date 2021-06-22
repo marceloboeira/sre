@@ -141,7 +141,7 @@ For instance, take into account the snaptshot above. If you already know how to 
         * Go
           * Concurrency
             * [Concurrency in Go](https://learning.oreilly.com/library/view/concurrency-in-go/9781491941294/) 📕 💰
-            * [Concurrency Patterns in Go](https://www.youtube.com/watch?v=YEKjSzIwAdA 📼 🆓) 
+            * [Concurrency Patterns in Go](https://www.youtube.com/watch?v=YEKjSzIwAdA 📼 🆓)
               * Channels
                 * [How do channels work? - Kavya Joshi - GopherCon 2017](https://www.youtube.com/watch?v=KBZlN0izeiY) 📼🆓⭐️
                 * [Practical Channel Work](https://www.youtube.com/watch?v=S11VFAMEs6E) 📼 🆓
@@ -461,12 +461,16 @@ For instance, take into account the snaptshot above. If you already know how to 
       * [What is IaC?](https://www.youtube.com/watch?v=RO7VcUAsf-I) 📼 🆓
       * [Getting Started with IaC](https://www.youtube.com/watch?v=G3D14I5_NIk) 📼 🆓
       * Containers
-        * [Docker](https://www.docker.com)
-          * Guides
-            * [Dockerfile Best Practices - ThoughtWorks](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) 📰 🆓
-          * Testing
-            * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
-              * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
+        * Standard
+          * OCI - [OpenContainers Initiative](https://opencontainers.org/)
+          * Runtimes
+            * [Docker](https://www.docker.com)
+              * Guides
+                * [Dockerfile Best Practices - ThoughtWorks](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) 📰 🆓
+              * Testing
+                * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
+                  * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
+            * [Containerd](https://containerd.io)
       * Orchestration
         * ECS
           * [ECS Workshop](https://ecsworkshop.com) 👨🏻‍🔧 🆓
