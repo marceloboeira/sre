@@ -251,6 +251,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
           * Redis
             * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
+              * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
           * Cassandra
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
