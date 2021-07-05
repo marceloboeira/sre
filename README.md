@@ -303,6 +303,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Should you put several event types in the same Kafka topic? - Martin Kleppmann](https://martin.kleppmann.com/2018/01/18/event-types-in-kafka-topic.html) 📰 🆓
           * Practical
             * [Kafka: The Definitive Guide](https://learning.oreilly.com/library/view/kafka-the-definitive/9781491936153/) 📕 💰
+            * [Kafka to MSK: MirrorMaker/ApacheFlink/Capacity Planning](https://www.youtube.com/watch?v=CmcJb9Ge3jI) 📼 🆓
           * Internals
             * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) 📰 🆓
             * [How Kafka's Storage Internals Work](https://thehoard.blog/how-kafkas-storage-internals-work-3a29b02e026) 📰 🆓
