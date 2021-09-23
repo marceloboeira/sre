@@ -4,6 +4,10 @@ graph TD
   SRE --> Cul[Culture]
     Cul --> SLA
     Cul --> SLO
+    Cul --> Inc[Incidents]
+      Inc --> Onc[On-call]
+      Inc --> ReM[Incident Reponse]
+      Inc --> PoM[Post-Mortem]
 
   SRE --> SW[Software Engineering]
   SW --> PL[Programming Languages]

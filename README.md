@@ -86,8 +86,17 @@ For instance, take into account the snaptshot above. If you already know how to 
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
       * [Tammy Buttow](https://twitter.com/tammybutow)
     * Monitoring (See later Section)
-    * Being on Call
+    * Incidents
+      * Being on Call
+        * [PagerDuty - Being on call](https://response.pagerduty.com/oncall/being_oncall/) 🆓
+      * Reponse
+        * [Google - Incident Management](https://www.youtube.com/watch?v=n4y9dwinPBQ) 🆓 📼
+        * [PagerDuty - Incident Response Management](https://response.pagerduty.com) 🆓
+        * [PagerDuty - Incident Reponse Course](https://www.youtube.com/watch?v=BI7nfkoTmiA) 🆓 📼
+        * [FireHydrant - Incident Ready](https://www.youtube.com/watch?v=K2sf2lb2-4I) 🆓 📼
     * Post-mortem
+      * [Google - Postmortems & Retrospectives](https://www.youtube.com/watch?v=UBe7U2b3tsA) 🆓 📼
+      * [PagerDuty - Post-mortems]()
   * Software Engineering
     * Version Control
       * git
