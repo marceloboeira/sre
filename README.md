@@ -216,6 +216,8 @@ For instance, take into account the snaptshot above. If you already know how to 
               * [PostgreSQL Streaming Replication](https://www.youtube.com/watch?v=NaPnYQBBdyU) 📼 🆓
               * [PostgreSQL Replication Concepts](https://www.youtube.com/watch?v=fsMvr96gTjY) 📼 🆓
               * [PostgreSQL Replication by example - Kobus Wolvaardt](https://www.youtube.com/watch?v=5BeC1aD4z8E) 📼 🆓 ⭐️
+            * Monitoring
+              * [Key metrics for Amazon RDS PostgreSQL monitoring](https://www.datadoghq.com/blog/aws-rds-postgresql-monitoring/) 📰 🆓
           * MySQL
             * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
             * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓
