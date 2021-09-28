@@ -94,9 +94,10 @@ For instance, take into account the snaptshot above. If you already know how to 
         * [PagerDuty - Incident Response Management](https://response.pagerduty.com) 🆓
         * [PagerDuty - Incident Reponse Course](https://www.youtube.com/watch?v=BI7nfkoTmiA) 🆓 📼
         * [FireHydrant - Incident Ready](https://www.youtube.com/watch?v=K2sf2lb2-4I) 🆓 📼
+        * [O'Reilly - Incident Metrics in SRE](https://static.googleusercontent.com/media/sre.google/en//static/pdf/incident_metrics_in_sre.pdf) 📕 🆓
     * Post-mortem
       * [Google - Postmortems & Retrospectives](https://www.youtube.com/watch?v=UBe7U2b3tsA) 🆓 📼
-      * [PagerDuty - Post-mortems]()
+      * [PagerDuty - Post-mortems](https://response.pagerduty.com/after/post_mortem_process/) 🆓
   * Software Engineering
     * Version Control
       * git
