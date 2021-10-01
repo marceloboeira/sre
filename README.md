@@ -81,6 +81,7 @@ For instance, take into account the snaptshot above. If you already know how to 
       * [Latency SLOs Done Right - Circonous](https://www.youtube.com/watch?v=iPotMqzOsDI) 📼 🆓
       * [Site Reliability Engineering at Dropbox - Tammy Buttow](https://www.youtube.com/watch?v=ggizCjUCCqE) 📼 🆓
       * [190 Countries and 5 core SREs - Netflix - Jonah Horowitz](https://www.youtube.com/watch?v=koGaH4ffXaU) 📼 🆓
+      * [The SRE I Aspire to Be - Usenix - Yaniv Aknin](https://www.youtube.com/watch?v=KnC2eRUZMKY) 📼 🆓
     * People to Follow
       * [Liz Fong-Jones](https://twitter.com/lizthegrey) 🐦
       * [Seth Vargo](https://twitter.com/sethvargo) 🐦
