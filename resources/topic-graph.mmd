@@ -46,7 +46,12 @@ graph TD
       DB --> SQL[SQL]
         SQL --> rSQL[Row-oriented]
           rSQL --> PgSQL
+            PgSQL --> rSQLRep[Replication]
+            PgSQL --> rSQLOps[Operating]
+              rSQLOps --> rSQLOpsVac[Vacuum]
           rSQL --> MySQL
+            MySQL --> mSQLRep[Replication]
+            MySQL --> mSQLOps[Operating]
         SQL --> cSQL[Column-oriented]
           cSQL --> Redshift
       DB --> NoSQL[NoSQL]
