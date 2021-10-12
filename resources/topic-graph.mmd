@@ -138,6 +138,7 @@ graph TD
           SerM --> IsT[Istio]
       IaC --> Prov[Provisioning]
         Prov --> TF[Terraform]
+          TF --> TFhcl[HCL Language]
           TF --> TFp[Custom Providers]
           TF --> TFm[Management]
             TFm --> TFa[Atlantis]

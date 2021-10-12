@@ -592,9 +592,15 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Introduction to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg) 📼 🆓
           * [Infrastructure as Code in the Real World?](https://www.youtube.com/watch?v=S6vS5mzivFo) 📼 🆓
           * [Terraform: Up and Running](https://learning.oreilly.com/library/view/terraform-up-and/9781491977071/) 📕 💰
+          * HCL
+            * [Terraform 0.12 dynamic for_each](https://www.hashicorp.com/blog/hashicorp-terraform-0-12-preview-for-and-for-each) 🆓 📰
+            * [Loops and Dynamic Blocks with HCL](https://blog.boltops.com/2020/10/05/terraform-hcl-loops-with-dynamic-block) 🆓 📰
           * Management
             * [Terraform Cloud](https://www.terraform.io/cloud) - Run multiple terraform projects/states at scale
             * [Atlantis](https://www.runatlantis.io) - Alternative to Terraform Cloud running on OSS/Github/Gitlab integrations
+          * Gotchas
+            * [State Moves](https://www.terraform.io/docs/cli/commands/state/mv.html) 🆓 📰
+            * [State Replace Provider](https://www.terraform.io/docs/cli/commands/state/replace-provider.html) 🆓 📰
           * Internals
             * Custom Providers
               * Build your own provider
