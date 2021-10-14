@@ -269,6 +269,10 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Redis
             * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
               * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
+            * Monitoring
+              * [Datadog - How to Monitor Redis Performance Metrics - Part 1](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
+              * [Datadog - How to Monitor Redis Performance Metrics - Part 2](https://www.datadoghq.com/blog/how-to-collect-redis-metrics/) 📰 🆓
+              * [Datadog - How to Monitor Redis Performance Metrics - Part 3](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
           * Cassandra
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
