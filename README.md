@@ -458,6 +458,8 @@ For instance, take into account the snaptshot above. If you already know how to 
             * 11:00 - Explanation regarding GA
           * [AWS Global Accelerator](https://www.youtube.com/watch?v=YqcEntZ8pQ4) 📼 🆓
        * VPC - Virtual private Cloud
+          * Network
+            * [Basic Networking](https://www.youtube.com/watch?v=hiKPPy584Mg)
          * [Practical VPC Design](https://aws.amazon.com/blogs/startups/practical-vpc-design/) 📰 🆓
          * Multi-VPC
            * [One to Many: Evolving VPC Design](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design) 📰 🆓
@@ -656,47 +658,48 @@ For instance, take into account the snaptshot above. If you already know how to 
             * [Deep dive to CPU FlameGraphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html) 📰 💻 🆓
             * [Speedscope - visualization tool](http://jamie-wong.com/post/speedscope/) 💻 🆓
             * [Presentation on FlameGraphs](https://speakerdeck.com/mrfoto/what-are-flame-graphs-and-how-to-read-them) 🎥 🆓
-  * Serverless
-    * [SAM](https://aws.amazon.com/serverless/sam/)- Serverless Application Model
-      * [What is SAM?](https://youtu.be/1dzihtC5LJ0) 📼 🆓
-    * Lambda
-      * Layers
-        * [What are Lambda Layers?](https://www.youtube.com/watch?v=ebhcs-9FYJA) 📰 🆓
-      * Extensions
-        * [Intro to Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) 📰 🆓
-        * [Building Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/building-extensions-for-aws-lambda-in-preview/) 📰 🆓
-        * [Building Extension API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html) 📰 🆓
-  * Security
-    * Authentication
-      * OpenID/OICD
-        * [Amazon Cognito](https://www.youtube.com/watch?v=OAR4ZHP8DEg) 📼 🆓
-    * Firewall
-      * WAF - Web Application Firewall
-        * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
-        * [The AWS Web Application Firewall (WAF)](https://youtu.be/SmF_wQuZ7z4) 📼 🆓
-    * Encryption
-      * Theory
-        * History
-          * Ceasar
-        * Symetric
-        * Asymetric
+    * Serverless
+      * [SAM](https://aws.amazon.com/serverless/sam/)- Serverless Application Model
+        * [What is SAM?](https://youtu.be/1dzihtC5LJ0) 📼 🆓
+      * Lambda
+        * Layers
+          * [What are Lambda Layers?](https://www.youtube.com/watch?v=ebhcs-9FYJA) 📰 🆓
+        * Extensions
+          * [Intro to Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) 📰 🆓
+          * [Building Extensions for AWS Lambda](https://aws.amazon.com/blogs/compute/building-extensions-for-aws-lambda-in-preview/) 📰 🆓
+          * [Building Extension API](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-extensions-api.html) 📰 🆓
+    * Security
+      * Authentication
+        * OpenID/OICD
+          * [Amazon Cognito](https://www.youtube.com/watch?v=OAR4ZHP8DEg) 📼 🆓
+      * Firewall
+        * WAF - Web Application Firewall
+          * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
+          * [The AWS Web Application Firewall (WAF)](https://youtu.be/SmF_wQuZ7z4) 📼 🆓
+      * Encryption
+        * Theory
+          * History
+            * Ceasar
+          * Symetric
+          * Asymetric
+        * Cloud
+          * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
+          * [KMS](https://aws.amazon.com/kms/)
+            * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
+      * Certificates
+        * Service Name Indication
+          * [What is SNI?](https://www.youtube.com/watch?v=manTiXESYG0) 📼 🆓
+      * Monitoring
+        * Data Leaks
+          * [Amazon Macie](https://www.youtube.com/watch?v=8piwEQJJXdo) 📼 🆓
+      * Multi-tenancy
+        * SaaS
+          * [AWS re:Invent 2019: SaaS tenant isolation patterns](https://www.youtube.com/watch?v=fuDZq-EspNA)
+    * Cost
       * Cloud
-        * [How Encryption Works @ AWS](https://www.youtube.com/watch?v=plv7PQZICCM) 📼 🆓
-        * [KMS](https://aws.amazon.com/kms/)
-          * [Encryption and Key Management @ AWS](https://www.youtube.com/watch?v=uhXalpNzPU4) 📼 🆓
-    * Certificates
-      * Service Name Indication
-        * [What is SNI?](https://www.youtube.com/watch?v=manTiXESYG0) 📼 🆓
-    * Monitoring
-      * Data Leaks
-        * [Amazon Macie](https://www.youtube.com/watch?v=8piwEQJJXdo) 📼 🆓
-    * Multi-tenancy
-      * SaaS
-        * [AWS re:Invent 2019: SaaS tenant isolation patterns](https://www.youtube.com/watch?v=fuDZq-EspNA)
-  * Cost
-    * Cloud
-      * AWS
-        * [Savings Plans vs Reserved Instances](https://www.youtube.com/watch?v=c_zlPQimrvY) 📼 🆓
-        * [How to save with AWS Saving Plans](https://www.youtube.com/watch?v=uQ9ry-9uUvo) 📼 🆓
-        * Network
-          * [Basic Networking](https://www.youtube.com/watch?v=hiKPPy584Mg)
+        * FinOps
+          * [What is FinOps?](https://www.finops.org/introduction/what-is-finops/) 🆓 📰
+          * [O'Relly - Cloud FinOps](https://www.finops.org/resources/finops-book/) 📕 💰 
+          * AWS
+            * [Savings Plans vs Reserved Instances](https://www.youtube.com/watch?v=c_zlPQimrvY) 📼 🆓
+            * [How to save with AWS Saving Plans](https://www.youtube.com/watch?v=uQ9ry-9uUvo) 📼 🆓
