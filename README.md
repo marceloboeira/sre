@@ -39,6 +39,7 @@ For instance, take into account the snaptshot above. If you already know how to 
 * 📕 - Book
 * 💻 - Project
 * 🎓 - Online Course
+* 📜 - Certification
 * 📼 - Video Presentation / Content
 * 🎥 - Slides Presentation
 * ✍🏼 - Written/Made by me
@@ -699,7 +700,11 @@ For instance, take into account the snaptshot above. If you already know how to 
       * Cloud
         * FinOps
           * [What is FinOps?](https://www.finops.org/introduction/what-is-finops/) 🆓 📰
-          * [O'Relly - Cloud FinOps](https://www.finops.org/resources/finops-book/) 📕 💰 
+          * [O'Relly - Cloud FinOps](https://www.finops.org/resources/finops-book/) 📕 💰
+          * Certification
+            * [Linux Foundation - Instroduction to FinOps](https://www.edx.org/course/introduction-to-finops) 🎓 💰
+            * [Certified FinOps Practitioner](https://www.finops.org/training-certification/finops-certified-practitioner/) 📜 💰
+            * [Certified FinOps Professional](https://www.finops.org/training-certification/finops-certified-professional/) 📜 💰
           * AWS
             * [Savings Plans vs Reserved Instances](https://www.youtube.com/watch?v=c_zlPQimrvY) 📼 🆓
             * [How to save with AWS Saving Plans](https://www.youtube.com/watch?v=uQ9ry-9uUvo) 📼 🆓
