@@ -701,6 +701,7 @@ For instance, take into account the snaptshot above. If you already know how to 
         * FinOps
           * [What is FinOps?](https://www.finops.org/introduction/what-is-finops/) 🆓 📰
           * [O'Relly - Cloud FinOps](https://www.finops.org/resources/finops-book/) 📕 💰
+          * [FinOps Landscape - An overview of companies adopting the framework](https://landscape.finops.org) 🆓
           * Certification
             * [Linux Foundation - Instroduction to FinOps](https://www.edx.org/course/introduction-to-finops) 🎓 💰
             * [Certified FinOps Practitioner](https://www.finops.org/training-certification/finops-certified-practitioner/) 📜 💰
