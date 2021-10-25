@@ -614,6 +614,8 @@ For instance, take into account the snaptshot above. If you already know how to 
               * Build your own provider
                 * [How to build a Usable Terraform Provider in 20 hours](https://www.youtube.com/watch?v=OoSAepwT0l4) 🆓 📼
                 * [Terraform - Building custom providers](https://www.hashicorp.com/blog/writing-custom-terraform-providers) 🆓 📰
+          * Certification
+            * [Terraform Certification Crash Course - 13h](https://www.youtube.com/watch?v=V4waklkBC38) 📼 🆓
         * [CDK - CloudFormation Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
           * [Infrastructure is Code with CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU&feature=youtu.be) 📼 🆓
           * [CDK Best Practices](https://github.com/kevinslin/open-cdk) 💻 🆓 📰
