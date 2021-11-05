@@ -616,6 +616,9 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [Terraform - Building custom providers](https://www.hashicorp.com/blog/writing-custom-terraform-providers) 🆓 📰
           * Certification
             * [Terraform Certification Crash Course - 13h](https://www.youtube.com/watch?v=V4waklkBC38) 📼 🆓
+          * Scaling
+            * [Terraform OpenCredos - Terraform life-cycle](https://www.hashicorp.com/resources/evolving-infrastructure-terraform-opencredo) 📼 🆓
+              * This is only outdated in regards of module not supporting `for_each`, they do as of 1.0 or 0.12
         * [CDK - CloudFormation Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
           * [Infrastructure is Code with CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU&feature=youtu.be) 📼 🆓
           * [CDK Best Practices](https://github.com/kevinslin/open-cdk) 💻 🆓 📰
