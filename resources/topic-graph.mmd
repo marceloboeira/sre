@@ -170,6 +170,7 @@ graph TD
           MVPC --> VPCT[Transit Gateway]
     OPS --> MON[Monitoring]
       MON --> Metr[Metrics]
+        Metr --> OTEL[OpenTelemetry]
         Metr --> Prom[Prometheus]
         Metr --> Infl[InfluxDB]
         Metr --> DD[Datadog]
