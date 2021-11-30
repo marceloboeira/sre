@@ -478,7 +478,8 @@ For instance, take into account the snaptshot above. If you already know how to 
     * Monitoring
       * Telemetry
         * OTEL - Open Telemetry
-          * [Datadog - The future of tracing is open](https://www.datadoghq.com/blog/opentelemetry-instrumentation/) 📰 🆓 
+          * [OpenTelemetry.io](https://opentelemetry.io) 📰 🆓
+          * [Datadog - The future of tracing is open](https://www.datadoghq.com/blog/opentelemetry-instrumentation/) 📰 🆓
       * Metrics
         * Prometheus
           * [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring](https://www.amazon.de/gp/product/1492034142?pf_rd_p=99260c3e-e149-406d-b475-c299891fcd91&pf_rd_r=M0874DR76K58PTVG1NV7) 📕 💰
