@@ -511,6 +511,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Intro to Nomad](https://www.youtube.com/watch?v=s_Fm9UtL4YU) 📼 🆓
           * [How does nomad work?](https://www.youtube.com/watch?v=UkXeRbzrWqo) 📼 🆓
           * [Nomad vs K8s](https://www.youtube.com/watch?v=GkmyNBUugg8) 📼 🆓
+          * [A Kubernetes User Guide to Nomad](https://www.hashicorp.com/blog/a-kubernetes-user-s-guide-to-hashicorp-nomad) 📰 🆓 - Awesome side-by-side quivalent comparinson of the abstraction
         * Kubernetes
           * History
             * [Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf) 📰 🆓
