@@ -199,6 +199,8 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Introduction to Sharding - B's March (MongoDB Focused)](https://www.youtube.com/watch?v=4upppuW7lGE) 📼 🆓
           * [Sharding & Database Partitioning | System Design Basics](https://www.youtube.com/watch?v=RynPj8C0BXA) 📼 🆓
           * [System Design - Sharding | Data Partitioning](https://www.youtube.com/watch?v=yNrVexoEnFM) 📼 🆓
+         * Operating
+           * [Your Database Connection Deserves A Name - Andy Grunwald](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) 📰 🆓
       * SQL
         * Row-based
           * PostgreSQL
