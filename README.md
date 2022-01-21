@@ -272,13 +272,27 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
           * Redis
-            * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
-              * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
+            * Introduction
+              * [What is Redis? - Jamil Spain](https://www.youtube.com/watch?v=muqiHwa8UvQ) 📼 🆓
+              * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
+            * Usecases
+              * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://www.youtube.com/watch?v=2WkJeofqIJg)
+              * [Airbnb - Migrating to ElastiCache](https://www.youtube.com/watch?v=eyd_8efUCwM) 📼 🆓
+            * Internals
+              * Streams
+                * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
+              * Sentinel
+                * [](https://www.youtube.com/watch?v=85HzpIk7Mq8)
+              * Cluster
+                * [Building for high availability and extreme performance with Redis cluster, AWS - Madelyn Olson](https://www.youtube.com/watch?v=LLxWu27qQTI) ⭐️ 📼 🆓
             * Monitoring
               * [Datadog - How to Monitor Redis Performance Metrics - Part 1](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
               * [Datadog - How to Monitor Redis Performance Metrics - Part 2](https://www.datadoghq.com/blog/how-to-collect-redis-metrics/) 📰 🆓
               * [Datadog - How to Monitor Redis Performance Metrics - Part 3](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
               * [What Happens When Redis Runs Out of Memory?](https://www.youtube.com/watch?v=W8IEzoxRMz4) 📼 🆓
+            * Hosted
+              * ElastiCache
+                * [AWS re:Invent 2020: Design for success with Amazon ElastiCache best practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
           * Cassandra
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
