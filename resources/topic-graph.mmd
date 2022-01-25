@@ -62,6 +62,7 @@ graph TD
             Rd --> RdCls[Cluster]
             Rd --> RdSh[Sharding]
             Rd --> RdEC[ElastiCache]
+              RdEC --> RdECG[Global Datastore]
         NoSQL --> DoS[DocumentStore]
           DoS --> Mng[Mongo]
           DoS --> ES[ElasticSearch]

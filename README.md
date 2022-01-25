@@ -282,7 +282,7 @@ For instance, take into account the snaptshot above. If you already know how to 
               * Streams
                 * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
               * Sentinel
-                * [](https://www.youtube.com/watch?v=85HzpIk7Mq8)
+                * [Redis Sentinel in Nutshell](https://www.youtube.com/watch?v=85HzpIk7Mq8)
               * Cluster
                 * [Building for high availability and extreme performance with Redis cluster, AWS - Madelyn Olson](https://www.youtube.com/watch?v=LLxWu27qQTI) ⭐️ 📼 🆓
             * Monitoring
@@ -293,6 +293,9 @@ For instance, take into account the snaptshot above. If you already know how to 
             * Hosted
               * ElastiCache
                 * [AWS re:Invent 2020: Design for success with Amazon ElastiCache best practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
+                * [AWS re:Invent 2021 - Deep dive on Amazon ElastiCache for Redis - Groupon - DataTiering](https://www.youtube.com/watch?v=QEKDpToureQ)  📼 🆓
+                * Global Datastore - Cross-region replication (DR)
+                  * [Redis Global Datastore](https://aws.amazon.com/blogs/aws/now-available-amazon-elasticache-global-datastore-for-redis/) 📰 🆓
           * Cassandra
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
