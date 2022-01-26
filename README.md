@@ -285,6 +285,9 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [Redis Sentinel in Nutshell](https://www.youtube.com/watch?v=85HzpIk7Mq8)
               * Cluster
                 * [Building for high availability and extreme performance with Redis cluster, AWS - Madelyn Olson](https://www.youtube.com/watch?v=LLxWu27qQTI) ⭐️ 📼 🆓
+                * [AWS Scaling Your Redis Workloads with Redis Cluster](https://www.youtube.com/watch?v=3Ovx5vJ17ws) 📼 🆓
+              * RBAC/RedisAuth
+                * [Redis Best Practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
             * Monitoring
               * [Datadog - How to Monitor Redis Performance Metrics - Part 1](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
               * [Datadog - How to Monitor Redis Performance Metrics - Part 2](https://www.datadoghq.com/blog/how-to-collect-redis-metrics/) 📰 🆓
