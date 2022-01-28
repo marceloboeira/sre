@@ -288,11 +288,16 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [AWS Scaling Your Redis Workloads with Redis Cluster](https://www.youtube.com/watch?v=3Ovx5vJ17ws) 📼 🆓
               * RBAC/RedisAuth
                 * [Redis Best Practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
+              * Enterprise
+                * [High Availability and Scalability with Redis Enterprise](https://medium.com/@octoz/high-availability-and-scalability-with-redis-enterprise-54a48edcce17) 📰 🆓
             * Monitoring
               * [Datadog - How to Monitor Redis Performance Metrics - Part 1](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
               * [Datadog - How to Monitor Redis Performance Metrics - Part 2](https://www.datadoghq.com/blog/how-to-collect-redis-metrics/) 📰 🆓
               * [Datadog - How to Monitor Redis Performance Metrics - Part 3](https://www.datadoghq.com/blog/how-to-monitor-redis-performance-metrics/) 📰 🆓
               * [What Happens When Redis Runs Out of Memory?](https://www.youtube.com/watch?v=W8IEzoxRMz4) 📼 🆓
+              * ElastiCache Specific
+                * [Monitoring ElastiCache with AWS-Native metrics](https://www.datadoghq.com/blog/monitor-elasticache-with-aws-metrics-native-metrics/)  📰 🆓
+                * [Monitoring ElastiCache wth enhanced metrics](https://www.datadoghq.com/blog/monitoring-elasticache-performance-metrics-with-redis-or-memcached/) 📰 🆓
             * Hosted
               * ElastiCache
                 * [AWS re:Invent 2020: Design for success with Amazon ElastiCache best practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
