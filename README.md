@@ -279,6 +279,8 @@ For instance, take into account the snaptshot above. If you already know how to 
               * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://www.youtube.com/watch?v=2WkJeofqIJg)
               * [Airbnb - Migrating to ElastiCache](https://www.youtube.com/watch?v=eyd_8efUCwM) 📼 🆓
             * Internals
+              * Cache
+                * [What happens when Redis runs out of memory? - Elena Kolevska](https://www.youtube.com/watch?v=W8IEzoxRMz4) 📼 🆓
               * Streams
                 * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
               * Sentinel
