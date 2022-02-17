@@ -300,6 +300,8 @@ For instance, take into account the snaptshot above. If you already know how to 
               * ElastiCache Specific
                 * [Monitoring ElastiCache with AWS-Native metrics](https://www.datadoghq.com/blog/monitor-elasticache-with-aws-metrics-native-metrics/)  📰 🆓
                 * [Monitoring ElastiCache wth enhanced metrics](https://www.datadoghq.com/blog/monitoring-elasticache-performance-metrics-with-redis-or-memcached/) 📰 🆓
+              * Operating
+                * [Redis Replication Buffer](https://redis.com/blog/top-redis-headaches-for-devops-replication-buffer/) 📰 🆓
             * Hosted
               * ElastiCache
                 * [AWS re:Invent 2020: Design for success with Amazon ElastiCache best practices](https://www.youtube.com/watch?v=_4SkEy6r-C4) 📼 🆓
