@@ -281,6 +281,8 @@ For instance, take into account the snaptshot above. If you already know how to 
             * Internals
               * Cache
                 * [What happens when Redis runs out of memory? - Elena Kolevska](https://www.youtube.com/watch?v=W8IEzoxRMz4) 📼 🆓
+              * Replication
+                  * [How Redis Replication Works](https://redis.com/blog/the-endless-redis-replication-loop-what-why-and-how-to-solve-it/) 📰 🆓
               * Streams
                 * [Redis Streams](https://www.youtube.com/watch?v=qXEyuUxQXZM) 📼 🆓
               * Sentinel
