@@ -232,6 +232,7 @@ For instance, take into account the snaptshot above. If you already know how to 
                   * [pgBadger](https://pgbadger.darold.net/)
                     * [Example Report](https://pgbadger.darold.net/samplev7.html)
                     * [Optimizing and tuning queries in Amazon RDS PostgreSQL based on native and external tools](https://aws.amazon.com/blogs/database/optimizing-and-tuning-queries-in-amazon-rds-postgresql-based-on-native-and-external-tools/)
+                    * [Fixing your slow queries](https://www.youtube.com/watch?v=qdGhbpvU5vk)
           * MySQL
             * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
             * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓
