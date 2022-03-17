@@ -227,6 +227,11 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [Optimizing Storage and Managing Cleanup in PostgreSQL - Harshit Dwivedi](https://medium.com/coding-blocks/optimizing-storage-and-managing-cleanup-in-postgresql-c2fe56d4cf5) ⭐️ 📰 🆓
                 * [Optimizing, monitoring, and troubleshooting VACUUM operations in PostgreSQL - GCP](https://cloud.google.com/solutions/optimizing-monitoring-troubleshooting-vacuum-operations-postgresql.pdf) 📰 🆓
                 * [PgBouncer - Setup and Performance Use-cases](https://medium.com/swlh/pgbouncer-installation-configuration-and-use-cases-for-better-performance-1806316f3a22) 📰 🆓
+              * Performance
+                * Query Performance
+                  * [pgBadger](https://pgbadger.darold.net/)
+                    * [Example Report](https://pgbadger.darold.net/samplev7.html)
+                    * [Optimizing and tuning queries in Amazon RDS PostgreSQL based on native and external tools](https://aws.amazon.com/blogs/database/optimizing-and-tuning-queries-in-amazon-rds-postgresql-based-on-native-and-external-tools/)
           * MySQL
             * [Learn to stop using shiny new things and love MySQL](https://medium.com/@Pinterest_Engineering/learn-to-stop-using-shiny-new-things-and-love-mysql-3e1613c2ce14) 📰 🆓
             * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040) 📰 🆓

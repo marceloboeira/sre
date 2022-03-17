@@ -50,6 +50,9 @@ graph TD
             PgSQL --> rSQLRep[Replication]
             PgSQL --> rSQLOps[Operating]
               rSQLOps --> rSQLOpsVac[Vacuum]
+              rSQLOps --> rSQLOpsPerf[Performance]
+                rSQLOpsPerf --> rSQLOpsPeQ[Query]
+                 rSQLOpsPeQ --> rSQLOpsPeQbad[pgBadger]
           rSQL --> MySQL
             MySQL --> mSQLRep[Replication]
             MySQL --> mSQLOps[Operating]
