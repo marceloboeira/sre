@@ -727,6 +727,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * [Amazon Cognito](https://www.youtube.com/watch?v=OAR4ZHP8DEg) 📼 🆓
       * Zero-Trust
         * [What is Zero Trust Security?](https://www.youtube.com/watch?v=FCWl-1Q-GIQ) 📼 🆓
+        * [How Zero-Trust Work with HashiStack](https://www.youtube.com/watch?v=N5gv6sF6954) 📼 🆓
       * Secure Access Management
         * Bastion
           * [What are Bastion Hosts?](https://www.youtube.com/watch?v=pNE9J81aYLc) 📼 🆓
