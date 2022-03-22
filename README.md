@@ -725,6 +725,19 @@ For instance, take into account the snaptshot above. If you already know how to 
       * Authentication
         * OpenID/OICD
           * [Amazon Cognito](https://www.youtube.com/watch?v=OAR4ZHP8DEg) 📼 🆓
+      * Zero-Trust
+        * [What is Zero Trust Security?](https://www.youtube.com/watch?v=FCWl-1Q-GIQ) 📼 🆓
+      * Secure Access Management
+        * Bastion
+          * [What are Bastion Hosts?](https://www.youtube.com/watch?v=pNE9J81aYLc) 📼 🆓
+        * Agent
+          * SSM Session Manager
+            * [Session Manager Overview](https://www.youtube.com/watch?v=cUEFGKaZOyU) 📼 🆓
+            * [Configure RunAs](https://www.youtube.com/watch?v=S2yiPu5dMrc) 📼 🆓
+          * Boundary
+            * [What is Boundary?](https://www.youtube.com/watch?v=tUMe7EsXYBQ&) 📼 🆓
+            * [What makes Boundary different?](https://www.youtube.com/watch?v=YB_yRW7q9xE) 📼 🆓
+            * [Boundary Demo](https://www.youtube.com/watch?v=wHzTwHj9DAY) 📼 🆓
       * Firewall
         * WAF - Web Application Firewall
           * [What is a Web Application Firewall (WAF)?](https://www.youtube.com/watch?v=p8CQcF_9280) 📼 🆓
