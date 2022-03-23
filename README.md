@@ -673,9 +673,7 @@ For instance, take into account the snaptshot above. If you already know how to 
       * Secret Management
         * [Vault](https://www.vaultproject.io) - Secure dynamic infrastructure across clouds and environments
           * [Introduction to Vault](https://www.youtube.com/watch?v=VYfl-DpZ5wM) 📼 🆓
-      * Session Management
-        * [Boundary](https://www.boundaryproject.io) - Secure access to hosts and services
-          * [Introduction to Boundary](https://www.youtube.com/watch?v=eRZuaw0AW0I) 📼 🆓
+      * Session Management - See Session Manager Below
     * Linux
       * [LFS - Linux from Scratch Book](http://www.linuxfromscratch.org/lfs/downloads/8.4/LFS-BOOK-8.4.pdf) 📼 🆓
       * systemd
