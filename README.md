@@ -280,6 +280,7 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Redis
             * Introduction
               * [What is Redis? - Jamil Spain](https://www.youtube.com/watch?v=muqiHwa8UvQ) 📼 🆓
+              * [Redis Explained](https://architecturenotes.co/redis/)
               * [Redis Cookbook](https://learning.oreilly.com/library/view/redis-4x-cookbook/9781783988167/) 📕 💰
             * Usecases
               * [AWS re:Invent 2020: Beyond caching: Advanced design patterns in Redis](https://www.youtube.com/watch?v=2WkJeofqIJg)
