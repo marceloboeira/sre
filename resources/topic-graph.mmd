@@ -132,6 +132,7 @@ graph TD
       IaC --> Cont[Containers]
         Cont --> Engine
           Engine --> Docker
+            Docker --> WASM
         Cont --> Runtime
           Runtime --> OCI[OCI - Standard]
           Runtime --> Docker

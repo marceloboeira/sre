@@ -544,6 +544,9 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [goss/dgoss](https://github.com/aelsabbahy/goss) - Test docker images ⭐️
                   * [marceloboeira/kurz](https://github.com/marceloboeira/kurz) - Example setup ✍🏻
             * [Containerd](https://containerd.io)
+          * WASM
+            * [WebAssembly & Containers](https://www.youtube.com/watch?v=OGcm3rHg630) - Basic understanding of how WASM related to container runtimes 🆓📼
+            * [CNCF - WASM: A revolutions for Browsers, Containers, and the Cloud - Justin Cormack](https://www.youtube.com/watch?v=uf0Rboi0mYg) 🆓📼
       * Orchestration
         * ECS
           * [ECS Workshop](https://ecsworkshop.com) 👨🏻‍🔧 🆓
