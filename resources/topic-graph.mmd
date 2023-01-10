@@ -87,9 +87,17 @@ graph TD
       STM --> Kinesis
       STM --> NATS
     DSi --> RPC[Remote Procedure Call]
-      RPC --> AVRO
-      RPC --> Protobufs
-      RPC --> Thrift
+      RPC --> fRPC[Frameworks]
+        fRPC --> grpc[GRPC]
+      RPC --> dfRPC[Data Format Protocols]
+        dfRPC --> dfnRPC[Non-Binary]
+          dfnRPC --> TEXT
+          dfnRPC --> JSON
+          dfnRPC --> YAML
+        dfRPC --> dfbRPC[Binary]
+          dfbRPC --> AVRO
+          dfbRPC --> Protobufs
+          dfbRPC --> Thrift
     DSi --> SDi[Service Discovery]
       SDi --> SDiSS[Server Side]
       SDi --> SDiCS[Client Side]
