@@ -674,6 +674,8 @@ For instance, take into account the snaptshot above. If you already know how to 
           * Scaling
             * [Terraform OpenCredos - Terraform life-cycle](https://www.hashicorp.com/resources/evolving-infrastructure-terraform-opencredo) 📼 🆓
               * This is only outdated in regards of module not supporting `for_each`, they do as of 1.0 or 0.12
+            * [Google Cloud - Terraform Best Practices](https://cloud.google.com/docs/terraform/best-practices-for-terraform) 🆓
+            * [Open Policy Agent](https://www.openpolicyagent.org/) - Policy-based control for cloud native environments 🆓
         * [CDK - CloudFormation Development Kit](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
           * [Infrastructure is Code with CDK](https://www.youtube.com/watch?v=ZWCvNFUN-sU&feature=youtu.be) 📼 🆓
           * [CDK Best Practices](https://github.com/kevinslin/open-cdk) 💻 🆓 📰
