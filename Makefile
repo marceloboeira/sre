@@ -1,11 +1,11 @@
-NPM ?= `which npm`
-MERMAID ?= `which mmdc`
-RESOURCES_PATH ?= `pwd`/resources
+BREW ?= `which brew`
+GRIP ?= `which grip`
+PORT ?= 7777
 
-.PHONY: build
-build:
-	@$(MERMAID) -w 10000 -i $(RESOURCES_PATH)/topic-graph.mmd -o $(RESOURCES_PATH)/topic-graph.png
+.PHONY: preview
+preview:
+	@$(GRIP) . 0.0.0.0:$(PORT)
 
 .PHONY: setup
 setup:
-	@$(NPM) install -g mermaid.cli
+	@$(BREW) bundle install

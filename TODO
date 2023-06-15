@@ -1,3 +1,7 @@
+Structure:
+Move renderer to docker (still no docker image available)
+--------------------------------------
+Content:
 - Performance Tests
   Apache Benchmark
   Vegeta
