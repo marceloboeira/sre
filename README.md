@@ -72,10 +72,15 @@ graph TD
             Rd --> RdRBAC[RBAC]
             Rd --> RdEC[ElastiCache]
               RdEC --> RdECG[Global Datastore]
+          KV --> Mc[memcached]
+        NoSQL --> Col[ColumnStore]
+          Col --> HBas[HBase]
+          Col --> Cas[Cassandra]
+          Col --> Scy[ScylaDB]
+          Col --> Dyn[DynamoDB]
         NoSQL --> DoS[DocumentStore]
-          DoS --> Mng[Mongo]
+          DoS --> Mng[MongoDB]
           DoS --> ES[ElasticSearch]
-        NoSQL --> CS[Cassandra]
     SW --> LD[Ledgers]
 
   SW --> DSi[Distributed Systems]
@@ -494,6 +499,16 @@ For instance, take into account the snaptshot above. If you already know how to 
               * [Overview](https://www.youtube.com/watch?v=mQAs44MHmeY) 📼 🆓
               * [Deep-Dive](https://www.youtube.com/watch?v=PjBMZW4Ze0c) 📼 🆓
       * NoSQL
+        * History
+          * Early 80s - Relational Databases
+              * TODO
+          * Late 90s - CAP Theorem
+              *
+          * Late 2000s
+            * [The Dynamo Paper (Amazon)](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+            * [The BigTable Paper (Google)](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+        * Generic
+          * [AWS re:Invent 2021 - Which NoSQL database is right for you?](https://www.youtube.com/watch?v=ivBaro-8PhI) 📼 🆓
         * KeyValue
           * [BoJack](https://github.com/marceloboeira/bojack) ✍🏼 💻 🆓
           * [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) ✍🏼 📰 🆓
@@ -537,13 +552,21 @@ For instance, take into account the snaptshot above. If you already know how to 
                 * [AWS re:Invent 2021 - Deep dive on Amazon ElastiCache for Redis - Groupon - DataTiering](https://www.youtube.com/watch?v=QEKDpToureQ)  📼 🆓
                 * Global Datastore - Cross-region replication (DR)
                   * [Redis Global Datastore](https://aws.amazon.com/blogs/aws/now-available-amazon-elasticache-global-datastore-for-redis/) 📰 🆓
+        * Column Store
+          * DynamoDB - Yeah, DynamoDB says K:V but really... it's a Column Store (even thought the DynamoDB Paper was for a KV Store)
+            * [Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+          * HBase
+            *
           * Cassandra
             * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
             * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
             * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
             * Amazon Keyspaces
               * [Running Apache Cassandra Workloads by Using Amazon Keyspaces](https://www.youtube.com/watch?v=zehVQzlSuEU) 🆓 📼
+            *
         * DocumentStore
+          * MongoDB
+            *
           * ElasticSearch
             * Internals
               * [ElasticSearch from the Bottom Up](https://www.youtube.com/watch?v=PpX7J-G2PEo) 📼 🆓
