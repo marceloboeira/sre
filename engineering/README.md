@@ -1,4 +1,4 @@
-# SRE > Engineering
+# [SRE](../README.md) > Engineering
 
 ```mermaid
 graph TD

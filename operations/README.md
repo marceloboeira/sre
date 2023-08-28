@@ -1,4 +1,4 @@
-# SRE > Operations
+# [SRE](../README.md) > Operations
 
 ```mermaid
 graph TD
