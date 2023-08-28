@@ -335,17 +335,14 @@ graph TD
       * DynamoDB - Yeah, DynamoDB says K:V but really... it's a Column Store (even thought the DynamoDB Paper was for a KV Store)
         * [Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
       * HBase
-        *
       * Cassandra
         * [Cassandra: Introduction by DATASAX](https://www.youtube.com/watch?v=B_HTdrTgGNs) 📼 🆓
         * [Cassandra at Instagram 2016](https://www.slideshare.net/DataStax/cassandra-at-instagram-2016) 📰 🆓
         * [Cassandra: The Definitive Guide](https://learning.oreilly.com/library/view/cassandra-the-definitive/9781491933657/) 📕 💰
         * Amazon Keyspaces
           * [Running Apache Cassandra Workloads by Using Amazon Keyspaces](https://www.youtube.com/watch?v=zehVQzlSuEU) 🆓 📼
-        *
     * DocumentStore
       * MongoDB
-        *
       * ElasticSearch
         * Internals
           * [ElasticSearch from the Bottom Up](https://www.youtube.com/watch?v=PpX7J-G2PEo) 📼 🆓
